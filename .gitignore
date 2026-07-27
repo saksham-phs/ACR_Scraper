@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Data Cache (Ignore intermediate HTML cache files)
+cache/
+
+# Logs & Temporary Files
+*.log
+daily_run.log
+sample_*.html
+test_*.py
+inspect_*.py
+deep_qc_audit.py
+
+# System & IDE
+.DS_Store
+.vscode/
+.idea/
