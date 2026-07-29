@@ -8,7 +8,7 @@
     "day": "Friday",
     "time_range": "",
     "chairs_names": "Adam Kilian, MD (Contestant) | Marwa Mustafa Mohammed Ahmed (Contestant) | Reynaldo Gomez (Contestant)",
-    "chairs_geography": "Associate Professor of Medicine, Saint Louis University",
+    "chairs_geography": "Associate Professor of Medicine, University of Texas at Austin Dell Medical School",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1863845",
     "presentations": [
@@ -17,8 +17,8 @@
         "title": "Billikenumab - Backup Team",
         "time_range": "",
         "presenter_names": "Adam Kilian, MD | Marwa Mustafa Mohammed Ahmed | Reynaldo Gomez",
-        "authors_and_affiliations": "Authors: Adam Kilian, MD (1), Marwa Mustafa Mohammed Ahmed, Reynaldo Gomez\n\nAffiliations:\n(1) Associate Professor of Medicine, Saint Louis University",
-        "presenter_geography": "Associate Professor of Medicine, Saint Louis University",
+        "authors_and_affiliations": "Authors: Adam Kilian, MD (1), Marwa Mustafa Mohammed Ahmed, Reynaldo Gomez\n\nAffiliations:\n(1) Associate Professor of Medicine, University of Texas at Austin Dell Medical School",
+        "presenter_geography": "Associate Professor of Medicine, University of Texas at Austin Dell Medical School",
         "presentation_type": "",
         "abstract_full_text": "",
         "disclosures": "",
@@ -119,14 +119,14 @@
       },
       {
         "presentation_id": "1829154",
-        "title": "Scan B1: Hand/Wrist",
+        "title": "Scan B1: Hand/Wrist Ultrasound Faculty: Heather Benham, DNP, APRN, CPNP, RhMSUS – Scottish RIte HospitalUltrasound Faculty: Alvin Day, MD, RhMSUS, FACP – Prisma Health",
         "time_range": "8:00 AM - 9:40 AM East Coast USA Time",
-        "presenter_names": "Heather Benham, DNP, APRN, CPNP, RhMSUS | Alvin Day, MD, RhMSUS, FACP",
-        "authors_and_affiliations": "Authors: Heather Benham, DNP, APRN, CPNP, RhMSUS (1), Alvin Day, MD, RhMSUS, FACP (2)\n\nAffiliations:\n(1) Scottish RIte Hospital, North Richland Hills, Texas\n(2) Prisma Health, Lexington, South Carolina",
-        "presenter_geography": "Scottish RIte Hospital, North Richland Hills, Texas | Prisma Health, Lexington, South Carolina",
-        "presentation_type": "Ultrasound Conferences | Hands-On Training | Ultrasound",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nHeather Benham, DNP, APRN, CPNP, RhMSUS: No financial relationships with ineligible companies to disclose\nAlvin Day, MD, RhMSUS, FACP: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829154"
       },
       {
@@ -232,7 +232,7 @@
         "presenter_names": "",
         "authors_and_affiliations": "",
         "presenter_geography": "",
-        "presentation_type": "Ultrasound Conferences | Ultrasound",
+        "presentation_type": "",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829198"
@@ -254,14 +254,14 @@
     "presentations": [
       {
         "presentation_id": "1829158",
-        "title": "Introduction and Opening Remarks Ultrasound Faculty: Fawad Aslam, MBBS, RhMSUS, MSc, FACP, FACR – Mayo Clinic, Arizona",
+        "title": "Introduction and Opening Remarks",
         "time_range": "7:20 AM - 7:30 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Fawad Aslam, MBBS, RhMSUS, MSc, FACP, FACR",
+        "authors_and_affiliations": "Authors: Fawad Aslam, MBBS, RhMSUS, MSc, FACP, FACR (1)\n\nAffiliations:\n(1) Mayo Clinic, Arizona, Scottsdale, Arizona",
+        "presenter_geography": "Mayo Clinic, Arizona, Scottsdale, Arizona",
+        "presentation_type": "Ultrasound Conferences | Ultrasound",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nFawad Aslam, MBBS, RhMSUS, MSc, FACP, FACR: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829158"
       },
       {
@@ -997,14 +997,14 @@
       },
       {
         "presentation_id": "1829078",
-        "title": "Enhancing Rheumatology Outcomes Globally Through Community and Patient-Led Initiatives - TBDVirtual Speaker: Josef De Guzman, -None- – Psoriasis Philippines",
+        "title": "Enhancing Rheumatology Outcomes Globally Through Community and Patient-Led Initiatives - TBD",
         "time_range": "2:45 PM - 3:00 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Josef De Guzman, -None-",
+        "authors_and_affiliations": "Authors: Josef De Guzman, -None- (1)\n\nAffiliations:\n(1) Psoriasis Philippines, Cainta",
+        "presenter_geography": "Psoriasis Philippines, Cainta",
+        "presentation_type": "Global Summit",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nJosef De Guzman, -None-: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829078"
       },
       {
@@ -1245,14 +1245,14 @@
       },
       {
         "presentation_id": "1815944",
-        "title": "Contract Negotitation",
+        "title": "Contract NegotitationFacilitator: Melinda Malecki, MS, JD – Malecki Brooks Ford Law Group, LLC",
         "time_range": "4:25 PM - 4:45 PM East Coast USA Time",
-        "presenter_names": "Melinda Malecki, MS, JD",
-        "authors_and_affiliations": "Authors: Melinda Malecki, MS, JD (1)\n\nAffiliations:\n(1) Malecki Brooks Ford Law Group, LLC, Des Plaines, Illinois",
-        "presenter_geography": "Malecki Brooks Ford Law Group, LLC, Des Plaines, Illinois",
-        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nMelinda Malecki, MS, JD: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815944"
       },
       {
@@ -1281,14 +1281,14 @@
       },
       {
         "presentation_id": "1815936",
-        "title": "Giant Cell Arteritis: Navigating Steroid-Sparing Therapies",
+        "title": "Giant Cell Arteritis: Navigating Steroid-Sparing TherapiesFacilitator: Tanaz Kermani, MD, MS – University of California Los Angeles",
         "time_range": "4:25 PM - 4:45 PM East Coast USA Time",
-        "presenter_names": "Tanaz Kermani, MD, MS",
-        "authors_and_affiliations": "Authors: Tanaz Kermani, MD, MS (1)\n\nAffiliations:\n(1) University of California Los Angeles, Santa Monica, California",
-        "presenter_geography": "University of California Los Angeles, Santa Monica, California",
-        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nTanaz Kermani, MD, MS: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815936"
       },
       {
@@ -1389,14 +1389,14 @@
       },
       {
         "presentation_id": "1815920",
-        "title": "Meet the Master - Caring for the Pregnant Rheumatology PatientFacilitator: Catherine Sims, MD – Duke University",
+        "title": "Meet the Master - Caring for the Pregnant Rheumatology Patient",
         "time_range": "4:25 PM - 4:45 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Catherine Sims, MD",
+        "authors_and_affiliations": "Authors: Catherine Sims, MD (1)\n\nAffiliations:\n(1) Duke University, Knightdale, North Carolina",
+        "presenter_geography": "Duke University, Knightdale, North Carolina",
+        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nCatherine Sims, MD: No relevant disclosure to display",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815920"
       },
       {
@@ -1413,14 +1413,14 @@
       },
       {
         "presentation_id": "1815922",
-        "title": "Meet the Master - Use of Low Dose Prednisone in RA",
+        "title": "Meet the Master - Use of Low Dose Prednisone in RAFacilitator: Doyt Conn, MD, MACR – retired",
         "time_range": "4:25 PM - 4:45 PM East Coast USA Time",
-        "presenter_names": "Doyt Conn, MD, MACR",
-        "authors_and_affiliations": "Authors: Doyt Conn, MD, MACR (1)\n\nAffiliations:\n(1) Retired, Rochester, Minnesota",
-        "presenter_geography": "Retired, Rochester, Minnesota",
-        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nDoyt Conn, MD, MACR: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815922"
       },
       {
@@ -1485,26 +1485,26 @@
       },
       {
         "presentation_id": "1815945",
-        "title": "Remembering the Forgotten Joint: Tackling TMJ Arthritis in Adults and Kids",
+        "title": "Remembering the Forgotten Joint: Tackling TMJ Arthritis in Adults and KidsFacilitator: Sarah D. Bayefsky, MD – Hackensack University Medical Center",
         "time_range": "4:25 PM - 4:45 PM East Coast USA Time",
-        "presenter_names": "Sarah D. Bayefsky, MD",
-        "authors_and_affiliations": "Authors: Sarah D. Bayefsky, MD (1)\n\nAffiliations:\n(1) Hackensack University Medical Center, New York, New York",
-        "presenter_geography": "Hackensack University Medical Center, New York, New York",
-        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nSarah D. Bayefsky, MD: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815945"
       },
       {
         "presentation_id": "1815940",
-        "title": "Reproductive Health in Young Adults",
+        "title": "Reproductive Health in Young AdultsFacilitator: Brittany Huynh, MD, MPH – University of Alabama at Birmingham",
         "time_range": "4:25 PM - 4:45 PM East Coast USA Time",
-        "presenter_names": "Brittany Huynh, MD, MPH",
-        "authors_and_affiliations": "Authors: Brittany Huynh, MD, MPH (1)\n\nAffiliations:\n(1) Assistant Professor, University of Alabama at Birmingham",
-        "presenter_geography": "Assistant Professor, University of Alabama at Birmingham",
-        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nBrittany Huynh, MD, MPH: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815940"
       },
       {
@@ -1557,12 +1557,12 @@
       },
       {
         "presentation_id": "1815980",
-        "title": "ACR Government Affairs Committee - Title TBDFacilitator: Amanda Myers, MD, FACR – Endeavor Health",
+        "title": "ACR Government Affairs Committee - Title TBD",
         "time_range": "4:45 PM - 5:05 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Amanda Myers, MD, FACR",
+        "authors_and_affiliations": "Authors: Amanda Myers, MD, FACR (1)\n\nAffiliations:\n(1) Rheumatologist, Endeavor Health",
+        "presenter_geography": "Rheumatologist, Endeavor Health",
+        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815980"
@@ -1917,12 +1917,12 @@
       },
       {
         "presentation_id": "1815950",
-        "title": "ACR Government Affairs Committee - Title TBDFacilitator: Amanda Myers, MD, FACR – Endeavor Health",
+        "title": "ACR Government Affairs Committee - Title TBD",
         "time_range": "5:05 PM - 5:25 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Amanda Myers, MD, FACR",
+        "authors_and_affiliations": "Authors: Amanda Myers, MD, FACR (1)\n\nAffiliations:\n(1) Rheumatologist, Endeavor Health",
+        "presenter_geography": "Rheumatologist, Endeavor Health",
+        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815950"
@@ -1953,14 +1953,14 @@
       },
       {
         "presentation_id": "1815956",
-        "title": "Climate Change and Autoimmunity: How to Prepare and Counsel Patients",
+        "title": "Climate Change and Autoimmunity: How to Prepare and Counsel PatientsFacilitator: Iazsmin Bauer Ventura, MD, MS – University of Chicago",
         "time_range": "5:05 PM - 5:25 PM East Coast USA Time",
-        "presenter_names": "Iazsmin Bauer Ventura, MD, MS",
-        "authors_and_affiliations": "Authors: Iazsmin Bauer Ventura, MD, MS (1)\n\nAffiliations:\n(1) University of Chicago, Chicago, Illinois",
-        "presenter_geography": "University of Chicago, Chicago, Illinois",
-        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nIazsmin Bauer Ventura, MD, MS: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815956"
       },
       {
@@ -2109,7 +2109,19 @@
       },
       {
         "presentation_id": "1816026",
-        "title": "Meet the Master - Caring for the Pregnant Rheumatology PatientFacilitator: Catherine Sims, MD – Duke University",
+        "title": "Meet the Master - Caring for the Pregnant Rheumatology Patient",
+        "time_range": "5:05 PM - 5:25 PM East Coast USA Time",
+        "presenter_names": "Catherine Sims, MD",
+        "authors_and_affiliations": "Authors: Catherine Sims, MD (1)\n\nAffiliations:\n(1) Duke University, Knightdale, North Carolina",
+        "presenter_geography": "Duke University, Knightdale, North Carolina",
+        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
+        "abstract_full_text": "",
+        "disclosures": "Disclosure(s):\nCatherine Sims, MD: No relevant disclosure to display",
+        "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1816026"
+      },
+      {
+        "presentation_id": "1816027",
+        "title": "Meet the Master - RA DMARD ToolkitFacilitator: James O'Dell, MD, MACR – University of Nebraska Medical Center",
         "time_range": "5:05 PM - 5:25 PM East Coast USA Time",
         "presenter_names": "",
         "authors_and_affiliations": "",
@@ -2117,18 +2129,6 @@
         "presentation_type": "",
         "abstract_full_text": "",
         "disclosures": "",
-        "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1816026"
-      },
-      {
-        "presentation_id": "1816027",
-        "title": "Meet the Master - RA DMARD Toolkit",
-        "time_range": "5:05 PM - 5:25 PM East Coast USA Time",
-        "presenter_names": "James O'Dell, MD, MACR",
-        "authors_and_affiliations": "Authors: James O'Dell, MD, MACR (1)\n\nAffiliations:\n(1) University of Nebraska Medical Center, Omaha, Nebraska",
-        "presenter_geography": "University of Nebraska Medical Center, Omaha, Nebraska",
-        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
-        "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nJames O'Dell, MD, MACR: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1816027"
       },
       {
@@ -2277,12 +2277,12 @@
       },
       {
         "presentation_id": "1816003",
-        "title": "ACR Government Affairs Committee - Title TBDFacilitator: Amanda Myers, MD, FACR – Endeavor Health",
+        "title": "ACR Government Affairs Committee - Title TBD",
         "time_range": "5:25 PM - 5:45 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Amanda Myers, MD, FACR",
+        "authors_and_affiliations": "Authors: Amanda Myers, MD, FACR (1)\n\nAffiliations:\n(1) Rheumatologist, Endeavor Health",
+        "presenter_geography": "Rheumatologist, Endeavor Health",
+        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1816003"
@@ -2409,14 +2409,14 @@
       },
       {
         "presentation_id": "1816017",
-        "title": "Making Transition of Care SuccessfulFacilitator: Melissa Argraves, MD, MEd – Nationwide Children's Hospital",
+        "title": "Making Transition of Care Successful",
         "time_range": "5:25 PM - 5:45 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Melissa Argraves, MD, MEd",
+        "authors_and_affiliations": "Authors: Melissa Argraves, MD, MEd (1)\n\nAffiliations:\n(1) Nationwide Children's Hospital, Columbus, Ohio",
+        "presenter_geography": "Nationwide Children's Hospital, Columbus, Ohio",
+        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nMelissa Argraves, MD, MEd: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1816017"
       },
       {
@@ -2589,14 +2589,14 @@
       },
       {
         "presentation_id": "1816007",
-        "title": "Rheumatic Immune-Related Adverse Events to ICI TherapyFacilitator: Pankti Reid, MD, MPH – University of Chicago Medical Center",
+        "title": "Rheumatic Immune-Related Adverse Events to ICI Therapy",
         "time_range": "5:25 PM - 5:45 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Pankti Reid, MD, MPH | Pankti Reid, MD, MPH",
+        "authors_and_affiliations": "Authors: Pankti Reid, MD, MPH (1), Pankti Reid, MD, MPH (1)\n\nAffiliations:\n(1) University of Chicago Medical Center, Elmhurst, Illinois",
+        "presenter_geography": "University of Chicago Medical Center, Elmhurst, Illinois | University of Chicago Medical Center, Elmhurst, Illinois",
+        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nPankti Reid, MD, MPH: No relevant disclosure to display",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1816007"
       },
       {
@@ -2652,14 +2652,14 @@
     "presentations": [
       {
         "presentation_id": "1836769",
-        "title": "Workforce Strategy: Stop the Hiring Spiral",
+        "title": "Workforce Strategy: Stop the Hiring SpiralInnovation Presenter: Nilanjana Bose, MD, MBA – Lonestar Rheumatology PLLCInnovation Presenter: Arinola Dada, MD, FACR – Overlake Arthritis and Osteoporosis center",
         "time_range": "4:30 PM - 5:30 PM East Coast USA Time",
-        "presenter_names": "Nilanjana Bose, MD, MBA | Arinola Dada, MD, FACR",
-        "authors_and_affiliations": "Authors: Nilanjana Bose, MD, MBA (1), Arinola Dada, MD, FACR (2)\n\nAffiliations:\n(1) Lonestar Rheumatology PLLC, Manvel, Texas\n(2) Overlake Arthritis and Osteoporosis center, Bellevue, Washington",
-        "presenter_geography": "Lonestar Rheumatology PLLC, Manvel, Texas | Overlake Arthritis and Osteoporosis center, Bellevue, Washington",
-        "presentation_type": "Practice Innovation Summit | Practice Management",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nNilanjana Bose, MD, MBA: No financial relationships with ineligible companies to disclose\nArinola Dada, MD, FACR: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1836769"
       }
     ]
@@ -2798,7 +2798,7 @@
         "presenter_names": "",
         "authors_and_affiliations": "",
         "presenter_geography": "",
-        "presentation_type": "Ultrasound Conferences | Ultrasound",
+        "presentation_type": "",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829138"
@@ -2916,14 +2916,14 @@
       },
       {
         "presentation_id": "1829204",
-        "title": "Lecture A12: Beyond Injections and Aspirations: Advanced Ultrasound Procedures",
+        "title": "Lecture A12: Beyond Injections and Aspirations: Advanced Ultrasound ProceduresUltrasound Faculty: Janeth Yinh, MD, RhMSUS – Massachusetts General Hospital",
         "time_range": "10:30 AM - 11:00 AM East Coast USA Time",
-        "presenter_names": "Janeth Yinh, MD, RhMSUS",
-        "authors_and_affiliations": "Authors: Janeth Yinh, MD, RhMSUS (1)\n\nAffiliations:\n(1) Massachusetts General Hospital, Newton, Massachusetts",
-        "presenter_geography": "Massachusetts General Hospital, Newton, Massachusetts",
-        "presentation_type": "Ultrasound Conferences | Hands-On Training | Ultrasound",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nJaneth Yinh, MD, RhMSUS: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829204"
       },
       {
@@ -3075,14 +3075,14 @@
       },
       {
         "presentation_id": "1829617",
-        "title": "Updates in Polymyalgia Rheumatica",
+        "title": "Updates in Polymyalgia RheumaticaSpeaker: Mike Putman, MD, MSc – The Medical College of Wisconsin",
         "time_range": "11:20 AM - 11:55 AM East Coast USA Time",
-        "presenter_names": "Mike Putman, MD, MSc",
-        "authors_and_affiliations": "Authors: Mike Putman, MD, MSc (1)\n\nAffiliations:\n(1) The Medical College of Wisconsin, Milwaukee, Wisconsin",
-        "presenter_geography": "The Medical College of Wisconsin, Milwaukee, Wisconsin",
-        "presentation_type": "Scientific Session | Professional Development",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nMike Putman, MD, MSc: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829617"
       },
       {
@@ -3552,14 +3552,14 @@
       },
       {
         "presentation_id": "1829507",
-        "title": "Year in Review: Clinical Science",
+        "title": "Year in Review: Clinical ScienceSpeaker: Liana Fraenkel, MD, MPH – Berkshire Medical Center",
         "time_range": "8:00 AM - 8:30 AM East Coast USA Time",
-        "presenter_names": "Liana Fraenkel, MD, MPH",
-        "authors_and_affiliations": "Authors: Liana Fraenkel, MD, MPH (1)\n\nAffiliations:\n(1) Berkshire Medical Center, Lenox, Massachusetts",
-        "presenter_geography": "Berkshire Medical Center, Lenox, Massachusetts",
-        "presentation_type": "Scientific Session",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nLiana Fraenkel, MD, MPH: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829507"
       }
     ]
@@ -3824,14 +3824,14 @@
     "presentations": [
       {
         "presentation_id": "1829363",
-        "title": "The Turning Point: My Front Row Seat to the Biologics Revolution in JIAPanelist: Daniel Lovell, MD, MPH, MACR – Cincinnati Children's Hospital Medical Center",
+        "title": "The Turning Point: My Front Row Seat to the Biologics Revolution in JIA",
         "time_range": "8:30 AM - 8:50 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Daniel Lovell, MD, MPH, MACR",
+        "authors_and_affiliations": "Authors: Daniel Lovell, MD, MPH, MACR (1)\n\nAffiliations:\n(1) Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio",
+        "presenter_geography": "Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio",
+        "presentation_type": "Scientific Session | Professional Development",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nDaniel Lovell, MD, MPH, MACR: No relevant disclosure to display",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829363"
       },
       {
@@ -3860,14 +3860,14 @@
       },
       {
         "presentation_id": "1829088",
-        "title": "A Retrospective: My Journey in Investigative Research in Academia and Patient-Centered CollaborationsPanelist: Christy Sandborg, MD, FACR, MACR, FAAP – Stanford University",
+        "title": "A Retrospective: My Journey in Investigative Research in Academia and Patient-Centered Collaborations",
         "time_range": "9:30 AM - 10:00 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Christy Sandborg, MD, FACR, MACR, FAAP",
+        "authors_and_affiliations": "Authors: Christy Sandborg, MD, FACR, MACR, FAAP (1)\n\nAffiliations:\n(1) Stanford University, Palo Alto, California",
+        "presenter_geography": "Stanford University, Palo Alto, California",
+        "presentation_type": "Scientific Session | Professional Development",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nChristy Sandborg, MD, FACR, FAAP, MACR: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829088"
       }
     ]
@@ -4133,14 +4133,14 @@
       },
       {
         "presentation_id": "1829283",
-        "title": "Cell Therapy in SclerodermaSpeaker: Dinesh Khanna, MD, MSc – University of Michigan",
+        "title": "Cell Therapy in Scleroderma",
         "time_range": "10:30 AM - 11:00 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Dinesh Khanna, MD, MSc",
+        "authors_and_affiliations": "Authors: Dinesh Khanna, MD, MSc (1)\n\nAffiliations:\n(1) Professor, Rheumatologist, University of Michigan",
+        "presenter_geography": "Professor, Rheumatologist, University of Michigan",
+        "presentation_type": "Scientific Session | Immunotherapy including CAR-T Therapy",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nDinesh Khanna, MD, MSc: No relevant disclosure to display",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829283"
       },
       {
@@ -4288,14 +4288,14 @@
       },
       {
         "presentation_id": "1829340",
-        "title": "Therapeutic Tightrope: Balancing Drug Interactions in Rheumatic Disease Management",
+        "title": "Therapeutic Tightrope: Balancing Drug Interactions in Rheumatic Disease ManagementSpeaker: Kristine Keaton, PharmD – Cleveland Clinic",
         "time_range": "11:00 AM - 11:30 AM East Coast USA Time",
-        "presenter_names": "Kristine Keaton, PharmD",
-        "authors_and_affiliations": "Authors: Kristine Keaton, PharmD (1)\n\nAffiliations:\n(1) Cleveland Clinic, Fairview Park, Ohio",
-        "presenter_geography": "Cleveland Clinic, Fairview Park, Ohio",
-        "presentation_type": "Scientific Session | Rare Rheumatic Diseases (IgG4 RD, Relapsing Polychondritis, BehÃ§et's Disease, Anti-Synthetase Syndrome etc.)",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nKristine Keaton, PharmD: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829340"
       }
     ]
@@ -4405,12 +4405,12 @@
       },
       {
         "presentation_id": "1829035",
-        "title": "New RISE Registry: Community Organization PerspectiveSpeaker: Aryeh Abeles",
+        "title": "New RISE Registry: Community Organization Perspective",
         "time_range": "11:00 AM - 11:30 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
+        "presenter_names": "Aryeh Abeles",
+        "authors_and_affiliations": "Authors: Aryeh Abeles\n\nAffiliations:\n",
         "presenter_geography": "",
-        "presentation_type": "",
+        "presentation_type": "Scientific Session | Community Support and Education Programs",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829035"
@@ -4471,14 +4471,14 @@
     "presentations": [
       {
         "presentation_id": "1829325",
-        "title": "Where Do New Treatments Fit in the Current Autoimmune ILD Treatment Paradigm? Perspective of a Pulmonologist",
+        "title": "Where Do New Treatments Fit in the Current Autoimmune ILD Treatment Paradigm? Perspective of a PulmonologistSpeaker: Tanzira Zaman, MD – Cedars-Sinai",
         "time_range": "10:30 AM - 11:00 AM East Coast USA Time",
-        "presenter_names": "Tanzira Zaman, MD",
-        "authors_and_affiliations": "Authors: Tanzira Zaman, MD (1)\n\nAffiliations:\n(1) Cedars-Sinai, Los Angeles, California",
-        "presenter_geography": "Cedars-Sinai, Los Angeles, California",
-        "presentation_type": "Scientific Session | Scleroderma, Scleroderma Mimics, and Mixed Connective Tissue Disease (MCTD)",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nTanzira Zaman, MD: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829325"
       },
       {
@@ -4777,14 +4777,14 @@
     "presentations": [
       {
         "presentation_id": "1829414",
-        "title": "Fueling Granulomas: The Role of Aberrant Lipid Metabolism in Sarcoidosis",
+        "title": "Fueling Granulomas: The Role of Aberrant Lipid Metabolism in SarcoidosisSpeaker: Thomas Weichhart, PhD – Medical University of Vienna",
         "time_range": "1:00 PM - 1:30 PM East Coast USA Time",
-        "presenter_names": "Thomas Weichhart, PhD",
-        "authors_and_affiliations": "Authors: Thomas Weichhart, PhD (1)\n\nAffiliations:\n(1) Medical University of Vienna, Vienna",
-        "presenter_geography": "Medical University of Vienna, Vienna",
-        "presentation_type": "Scientific Session",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nThomas Weichhart, PhD: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829414"
       },
       {
@@ -4939,20 +4939,20 @@
     "day": "Sunday",
     "time_range": "1:00 PM - 2:30 PM East Coast USA Time",
     "chairs_names": "Adam Kilian, MD (Moderator) | Reema Syed, MD, MBBS (Moderator) | Adam Kilian, MD (Session Coordinator)",
-    "chairs_geography": "Associate Professor of Medicine, Saint Louis University | Washington University School of Medicine in Saint Louis, Olivette, Missouri | Associate Professor of Medicine, Saint Louis University",
+    "chairs_geography": "Associate Professor of Medicine, University of Texas at Austin Dell Medical School | Washington University School of Medicine in Saint Louis, Olivette, Missouri | Associate Professor of Medicine, University of Texas at Austin Dell Medical School",
     "description": "Learning Objectives::\nReview the role of steroid sparing agents for polymyalgia rheumaticaDiscuss the concept of GCA-PMR Spectrum Disease and formulate an approach to the assessment and treatment of patients with subclinical giant cell\r\narteritisIntegrate real-world solutions to improve GCA care in resource-limited and geographically remote settings. Participants will be able to outline feasible strategies, such as shared-care models, alternative monitoring pathways, or pragmatic imaging and referral approaches, that improve access and treatment safety where specialist services are limited.",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829688",
     "presentations": [
       {
         "presentation_id": "1829266",
-        "title": "Biologics for the Management of Polymyalgia Rheumatica",
+        "title": "Biologics for the Management of Polymyalgia RheumaticaSpeaker: Alexandra Villa-Forte, MD, MPH, FACP – Cleveland Clinic",
         "time_range": "1:00 PM - 1:30 PM East Coast USA Time",
-        "presenter_names": "Alexandra Villa-Forte, MD, MPH, FACP",
-        "authors_and_affiliations": "Authors: Alexandra Villa-Forte, MD, MPH, FACP (1)\n\nAffiliations:\n(1) Cleveland Clinic, Cleveland, Ohio",
-        "presenter_geography": "Cleveland Clinic, Cleveland, Ohio",
-        "presentation_type": "Scientific Session",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nAlexandra Villa-Forte, MD, MPH, FACP: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829266"
       },
       {
@@ -5124,14 +5124,14 @@
     "presentations": [
       {
         "presentation_id": "1854375",
-        "title": "ANA 1:40",
+        "title": "ANA 1:40Contestant: Anna Way, MD – UCLAContestant: Diana Tran, MD – Cedars Sinai Medical CenterContestant: Heather Bukiri, MD – UCLA",
         "time_range": "1:00 PM - 3:00 PM East Coast USA Time",
-        "presenter_names": "Anna Way, MD | Diana Tran, MD | Heather Bukiri, MD",
-        "authors_and_affiliations": "Authors: Anna Way, MD (1), Diana Tran, MD (2), Heather Bukiri, MD (3)\n\nAffiliations:\n(1) UCLA, Santa Monica, California\n(2) Cedars Sinai Medical Center, La Canada Flintridge, California\n(3) UCLA, Los Angeles, California",
-        "presenter_geography": "UCLA, Santa Monica, California | Cedars Sinai Medical Center, La Canada Flintridge, California | UCLA, Los Angeles, California",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
         "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nAnna Way, MD: No financial relationships with ineligible companies to disclose\nHeather Bukiri, MD: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1854375"
       },
       {
@@ -5475,14 +5475,14 @@
     "presentations": [
       {
         "presentation_id": "1829063",
-        "title": "Retaining the Late Career RheumatologistPanelist: Gwenesta Melton, MD – Association of Women in RheumatologyPanelist: Bill St.Clair, MD, MACR – Duke University Medical CenterPanelist: Andrew J. Laster, , MACR – retired",
+        "title": "Retaining the Late Career Rheumatologist",
         "time_range": "2:30 PM - 3:30 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Gwenesta Melton, MD | Bill St.Clair, MD, MACR | Andrew J. Laster, MACR",
+        "authors_and_affiliations": "Authors: Gwenesta Melton, MD (1), Bill St.Clair, MD, MACR (2), Andrew J. Laster, MACR (3)\n\nAffiliations:\n(1) Association of Women in Rheumatology, Fayetteville, North Carolina\n(2) Duke University Medical Center, Durham, North Carolina\n(3) Retired, Charlotte, North Carolina",
+        "presenter_geography": "Association of Women in Rheumatology, Fayetteville, North Carolina | Duke University Medical Center, Durham, North Carolina | Retired, Charlotte, North Carolina",
+        "presentation_type": "Scientific Session | Rheumatology Workforce",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nGwenesta Melton, MD: No relevant disclosure to display\nBill St.Clair, MD, MACR: No relevant disclosure to display\nAndrew J. Laster, , MACR: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829063"
       }
     ]
@@ -5580,14 +5580,14 @@
     "presentations": [
       {
         "presentation_id": "1829446",
-        "title": "Super-Stable Lipochondrocytes and Cartilage",
+        "title": "Super-Stable Lipochondrocytes and CartilageSpeaker: Raul Ramos, PhD – University of California Irvine",
         "time_range": "3:00 PM - 3:30 PM East Coast USA Time",
-        "presenter_names": "Raul Ramos, PhD",
-        "authors_and_affiliations": "Authors: Raul Ramos, PhD (1)\n\nAffiliations:\n(1) University of California Irvine, Long Beach, California",
-        "presenter_geography": "University of California Irvine, Long Beach, California",
-        "presentation_type": "Scientific Session",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nRaul Ramos, PhD: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829446"
       },
       {
@@ -5619,14 +5619,14 @@
     "presentations": [
       {
         "presentation_id": "1829317",
-        "title": "Hormone Replacement Therapy in Systemic Autoimmune Rheumatic DiseasesSpeaker: Karen Costenbader, MD, MPH – Brigham and Women's Hospital/ Harvard Medical School",
+        "title": "Hormone Replacement Therapy in Systemic Autoimmune Rheumatic Diseases",
         "time_range": "3:00 PM - 3:30 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Karen Costenbader, MD, MPH",
+        "authors_and_affiliations": "Authors: Karen Costenbader, MD, MPH (1)\n\nAffiliations:\n(1) Brigham and Women's Hospital/ Harvard Medical School, Boston, Massachusetts",
+        "presenter_geography": "Brigham and Women's Hospital/ Harvard Medical School, Boston, Massachusetts",
+        "presentation_type": "Scientific Session | Reproductive Health",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nKaren Costenbader, MD, MPH: No relevant disclosure to display",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829317"
       },
       {
@@ -5706,14 +5706,14 @@
       },
       {
         "presentation_id": "1829395",
-        "title": "Balancing the Hoofbeats: Training the Ear for Zebras as well as Horses",
+        "title": "Balancing the Hoofbeats: Training the Ear for Zebras as well as HorsesWellness Educator: Rebecca Sadun, MD, PhD – Duke University",
         "time_range": "3:50 PM - 4:05 PM East Coast USA Time",
-        "presenter_names": "Rebecca Sadun, MD, PhD",
-        "authors_and_affiliations": "Authors: Rebecca Sadun, MD, PhD (1)\n\nAffiliations:\n(1) Duke University, Durham, North Carolina",
-        "presenter_geography": "Duke University, Durham, North Carolina",
-        "presentation_type": "Scientific Session | Medical Education",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nRebecca Sadun, MD, PhD: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829395"
       },
       {
@@ -5784,14 +5784,14 @@
     "presentations": [
       {
         "presentation_id": "1829524",
-        "title": "Everything to Know About Osteoporosis and Fracture ProtectionSpeaker: Jennifer Kelly, DO – University of Vermont",
+        "title": "Everything to Know About Osteoporosis and Fracture Protection",
         "time_range": "3:30 PM - 4:30 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Jennifer Kelly, DO",
+        "authors_and_affiliations": "Authors: Jennifer Kelly, DO (1)\n\nAffiliations:\n(1) University of Vermont, South Burlington, Vermont",
+        "presenter_geography": "University of Vermont, South Burlington, Vermont",
+        "presentation_type": "Scientific Session",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nJennifer Kelly, DO: No relevant disclosure to display",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829524"
       }
     ]
@@ -5835,14 +5835,14 @@
       },
       {
         "presentation_id": "1829503",
-        "title": "Review of Recent FDA Conference on Pediatric SLE",
+        "title": "Review of Recent FDA Conference on Pediatric SLESpeaker: Tresa Ambooken, MD, MBA – Food and Drug Administration",
         "time_range": "4:10 PM - 4:25 PM East Coast USA Time",
-        "presenter_names": "Tresa Ambooken, MD, MBA",
-        "authors_and_affiliations": "Authors: Tresa Ambooken, MD, MBA (1)\n\nAffiliations:\n(1) Food and Drug Administration, Washington, DC",
-        "presenter_geography": "Food and Drug Administration, Washington, DC",
-        "presentation_type": "Scientific Session | Leadership",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nTresa Ambooken, MD, MBA: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829503"
       },
       {
@@ -7351,14 +7351,14 @@
     "presentations": [
       {
         "presentation_id": "1829578",
-        "title": "ARP Distinguished Lecture: Evidence-Based Toolbox for Patients Living with Fibromyalgia",
+        "title": "ARP Distinguished Lecture: Evidence-Based Toolbox for Patients Living with FibromyalgiaSpeaker: Christine Stamatos, DNP, ANP-C – Northwell Health, Division of Rheumatology",
         "time_range": "1:00 PM - 2:00 PM East Coast USA Time",
-        "presenter_names": "Christine Stamatos, DNP, ANP-C",
-        "authors_and_affiliations": "Authors: Christine Stamatos, DNP, ANP-C (1)\n\nAffiliations:\n(1) Northwell Health, Division of Rheumatology, cold spring harbor, New York",
-        "presenter_geography": "Northwell Health, Division of Rheumatology, cold spring harbor, New York",
-        "presentation_type": "Scientific Session",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nChristine Stamatos, DNP, ANP-C: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829578"
       }
     ]
@@ -7546,14 +7546,14 @@
       },
       {
         "presentation_id": "1829358",
-        "title": "Iris of the Storm: An Ophthalmologist's PerspectivePanelist: Sunil Srivastava, MD – Cole Eye Institute/Cleveland Clinic",
+        "title": "Iris of the Storm: An Ophthalmologist's Perspective",
         "time_range": "1:40 PM - 2:00 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Sunil Srivastava, MD",
+        "authors_and_affiliations": "Authors: Sunil Srivastava, MD (1)\n\nAffiliations:\n(1) Cole Eye Institute/Cleveland Clinic, Cleveland, Ohio",
+        "presenter_geography": "Cole Eye Institute/Cleveland Clinic, Cleveland, Ohio",
+        "presentation_type": "Scientific Session | Pediatric Rheumatology: Juvenile Idiopathic Arthritis",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nSunil Srivastava, MD: No relevant disclosure to display",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829358"
       }
     ]
@@ -7624,14 +7624,14 @@
     "presentations": [
       {
         "presentation_id": "1829461",
-        "title": "Which Diseases Are Most Amenable to Cellular Therapies and Why?",
+        "title": "Which Diseases Are Most Amenable to Cellular Therapies and Why?Speaker: Nirali Shah (she/her/hers) – National Institutes of Health",
         "time_range": "1:00 PM - 1:20 PM East Coast USA Time",
-        "presenter_names": "Nirali Shah (she/her/hers)",
-        "authors_and_affiliations": "Authors: Nirali Shah (she/her/hers) (1)\n\nAffiliations:\n(1) National Institutes of Health, Bethesda, Maryland",
-        "presenter_geography": "National Institutes of Health, Bethesda, Maryland",
-        "presentation_type": "Scientific Session",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nNirali Shah: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829461"
       },
       {
@@ -7687,14 +7687,14 @@
     "presentations": [
       {
         "presentation_id": "1829384",
-        "title": "Simulation-Based Education in RheumatologyInteractive Speaker: Tiffany Lin, MD – University of Wisconsin",
+        "title": "Simulation-Based Education in Rheumatology",
         "time_range": "1:30 PM - 2:00 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Tiffany Lin, MD",
+        "authors_and_affiliations": "Authors: Tiffany Lin, MD (1)\n\nAffiliations:\n(1) Associate Professor, University of Wisconsin",
+        "presenter_geography": "Associate Professor, University of Wisconsin",
+        "presentation_type": "Scientific Session",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nTiffany Lin, MD: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829384"
       },
       {
@@ -7794,14 +7794,14 @@
     "presentations": [
       {
         "presentation_id": "1829569",
-        "title": "The Role of Embedded Clinical Pharmacists",
+        "title": "The Role of Embedded Clinical PharmacistsSpeaker: Jayllex Mills, PharmD – University of Vermont Medical Center",
         "time_range": "2:00 PM - 2:30 PM East Coast USA Time",
-        "presenter_names": "Jayllex Mills, PharmD",
-        "authors_and_affiliations": "Authors: Jayllex Mills, PharmD (1)\n\nAffiliations:\n(1) University of Vermont Medical Center, South Burlington, Vermont",
-        "presenter_geography": "University of Vermont Medical Center, South Burlington, Vermont",
-        "presentation_type": "Scientific Session",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nJayllex Mills, PharmD: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829569"
       }
     ]
@@ -8021,7 +8021,7 @@
         "presenter_names": "",
         "authors_and_affiliations": "",
         "presenter_geography": "",
-        "presentation_type": "Scientific Session",
+        "presentation_type": "",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829595"
@@ -8747,12 +8747,12 @@
     "presentations": [
       {
         "presentation_id": "1829497",
-        "title": "Welcome and OverviewSpeaker: S. Louis Bridges, Jr, MD, PhD, MACR – Self-Employed",
+        "title": "Welcome and Overview",
         "time_range": "8:00 AM - 8:10 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "S. Louis Bridges, Jr, MD, PhD, MACR",
+        "authors_and_affiliations": "Authors: S. Louis Bridges, Jr, MD, PhD, MACR (1)\n\nAffiliations:\n(1) Self-Employed, Birmingham, Alabama",
+        "presenter_geography": "Self-Employed, Birmingham, Alabama",
+        "presentation_type": "Scientific Session",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829497"
@@ -9136,14 +9136,14 @@
     "presentations": [
       {
         "presentation_id": "1829411",
-        "title": "Multi-Omic Immunoprofiling and Integration Using Machine Learning and Network ApproachesSpeaker: Jishnu Das, PhD – University of Pittsburgh",
+        "title": "Multi-Omic Immunoprofiling and Integration Using Machine Learning and Network Approaches",
         "time_range": "10:00 AM - 10:30 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Jishnu Das, PhD",
+        "authors_and_affiliations": "Authors: Jishnu Das, PhD (1)\n\nAffiliations:\n(1) University of Pittsburgh, Pittsburgh, Pennsylvania",
+        "presenter_geography": "University of Pittsburgh, Pittsburgh, Pennsylvania",
+        "presentation_type": "Scientific Session",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nJishnu Das, PhD: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829411"
       },
       {
@@ -9469,14 +9469,14 @@
       },
       {
         "presentation_id": "1829286",
-        "title": "Seeing the Red Flags: Diagnosing and Treating Vision Loss in Giant Cell Arteritis",
+        "title": "Seeing the Red Flags: Diagnosing and Treating Vision Loss in Giant Cell ArteritisSpeaker: Rennie Rhee, MD, MS – University of Pennsylvania",
         "time_range": "10:30 AM - 11:00 AM East Coast USA Time",
-        "presenter_names": "Rennie Rhee, MD, MS",
-        "authors_and_affiliations": "Authors: Rennie Rhee, MD, MS (1)\n\nAffiliations:\n(1) University of Pennsylvania, Philadelphia, Pennsylvania",
-        "presenter_geography": "University of Pennsylvania, Philadelphia, Pennsylvania",
-        "presentation_type": "Scientific Session | Imaging in the Rheumatic Diseases",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nRennie Rhee, MD, MS: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829286"
       },
       {
@@ -9604,7 +9604,7 @@
     "day": "Tuesday",
     "time_range": "10:00 AM - 11:30 AM East Coast USA Time",
     "chairs_names": "Adam Kilian, MD (Moderator) | Reema Syed, MD, MBBS (Moderator) | Adam Kilian, MD (Session Coordinator)",
-    "chairs_geography": "Associate Professor of Medicine, Saint Louis University | Washington University School of Medicine in Saint Louis, Olivette, Missouri | Associate Professor of Medicine, Saint Louis University",
+    "chairs_geography": "Associate Professor of Medicine, University of Texas at Austin Dell Medical School | Washington University School of Medicine in Saint Louis, Olivette, Missouri | Associate Professor of Medicine, University of Texas at Austin Dell Medical School",
     "description": "Learning Objectives::\nPropose an updated approach to the management of granulomatosis with polyangiitis and microscopic polyangiitisExamine the role of IL-5 blockade in the management of eosinophilic granulomatosis with polyangiitisReview the use of newly approved agents for the management of giant cell arteritis",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829652",
     "presentations": [
@@ -9673,14 +9673,14 @@
       },
       {
         "presentation_id": "1829482",
-        "title": "From Rheumatologists to Immune Dysregulationists: The New Tools of the Trade",
+        "title": "From Rheumatologists to Immune Dysregulationists: The New Tools of the TradeInteractive Speaker: Yike Jiang, MD, PhD (No preference) – Duke University",
         "time_range": "10:30 AM - 11:00 AM East Coast USA Time",
-        "presenter_names": "Yike Jiang, MD, PhD (No preference)",
-        "authors_and_affiliations": "Authors: Yike Jiang, MD, PhD (No preference) (1)\n\nAffiliations:\n(1) Duke University, Durham, North Carolina",
-        "presenter_geography": "Duke University, Durham, North Carolina",
-        "presentation_type": "Scientific Session",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nYike Jiang, MD, PhD: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829482"
       },
       {
@@ -9937,14 +9937,14 @@
     "presentations": [
       {
         "presentation_id": "1829489",
-        "title": "TBD",
+        "title": "TBDSpeaker: John Varga, MD, MACR – University of Michigan",
         "time_range": "1:00 PM - 2:00 PM East Coast USA Time",
-        "presenter_names": "John Varga, MD, MACR",
-        "authors_and_affiliations": "Authors: John Varga, MD, MACR (1)\n\nAffiliations:\n(1) Chief, Division of Rheumatology, Professor of Medicine, University of Michigan",
-        "presenter_geography": "Chief, Division of Rheumatology, Professor of Medicine, University of Michigan",
-        "presentation_type": "Scientific Session",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nJohn Varga, MD, MACR: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829489"
       }
     ]
@@ -10222,26 +10222,26 @@
     "presentations": [
       {
         "presentation_id": "1829240",
-        "title": "TBA",
+        "title": "TBASpeaker: Stephanie Xie, PhD – UHN Princess Margaret Cancer Centre",
         "time_range": "1:00 PM - 1:30 PM East Coast USA Time",
-        "presenter_names": "Stephanie Xie, PhD",
-        "authors_and_affiliations": "Authors: Stephanie Xie, PhD (1)\n\nAffiliations:\n(1) UHN Princess Margaret Cancer Centre, Toronto, Ontario",
-        "presenter_geography": "UHN Princess Margaret Cancer Centre, Toronto, Ontario",
-        "presentation_type": "Scientific Session | Immunobiology",
-        "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nStephanie Xie, PhD: No financial relationships with ineligible companies to disclose",
-        "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829240"
-      },
-      {
-        "presentation_id": "1829239",
-        "title": "Rise in Autoimmunity and Autoimmune Diseases and the Role of Environmental and Lifestyle FactorsSpeaker: Frederick Miller, MD, PhD, MACR – NIH, NIEHS",
-        "time_range": "1:30 PM - 2:00 PM East Coast USA Time",
         "presenter_names": "",
         "authors_and_affiliations": "",
         "presenter_geography": "",
         "presentation_type": "",
         "abstract_full_text": "",
         "disclosures": "",
+        "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829240"
+      },
+      {
+        "presentation_id": "1829239",
+        "title": "Rise in Autoimmunity and Autoimmune Diseases and the Role of Environmental and Lifestyle Factors",
+        "time_range": "1:30 PM - 2:00 PM East Coast USA Time",
+        "presenter_names": "Frederick Miller, MD, PhD, MACR",
+        "authors_and_affiliations": "Authors: Frederick Miller, MD, PhD, MACR (1)\n\nAffiliations:\n(1) NIH, NIEHS, Chapel Hill, North Carolina",
+        "presenter_geography": "NIH, NIEHS, Chapel Hill, North Carolina",
+        "presentation_type": "Scientific Session | Immunobiology",
+        "abstract_full_text": "",
+        "disclosures": "Disclosure(s):\nFrederick Miller, MD, PhD, MACR: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829239"
       },
       {
@@ -10660,12 +10660,12 @@
     "presentations": [
       {
         "presentation_id": "1859980",
-        "title": "Introduction & Award Presentation Speaker: Gary Koretzky, MD, MACR – Cornell University",
+        "title": "Introduction & Award Presentation",
         "time_range": "3:30 PM - 3:40 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Gary Koretzky, MD, MACR",
+        "authors_and_affiliations": "Authors: Gary Koretzky, MD, MACR (1)\n\nAffiliations:\n(1) Cornell University, Ithaca, New York",
+        "presenter_geography": "Cornell University, Ithaca, New York",
+        "presentation_type": "Scientific Session | Systemic Lupus Erythematosus (SLE)",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1859980"
@@ -11020,7 +11020,7 @@
         "presenter_names": "",
         "authors_and_affiliations": "",
         "presenter_geography": "",
-        "presentation_type": "",
+        "presentation_type": "Scientific Session",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829103"
@@ -11032,7 +11032,7 @@
         "presenter_names": "",
         "authors_and_affiliations": "",
         "presenter_geography": "",
-        "presentation_type": "",
+        "presentation_type": "Scientific Session",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829102"
@@ -11044,7 +11044,7 @@
         "presenter_names": "",
         "authors_and_affiliations": "",
         "presenter_geography": "",
-        "presentation_type": "",
+        "presentation_type": "Scientific Session",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829101"
@@ -11060,7 +11060,7 @@
     "day": "Wednesday",
     "time_range": "8:00 AM - 9:30 AM East Coast USA Time",
     "chairs_names": "Yusuf Yazici, MD (Moderator) | Adam Kilian, MD (Moderator) | Adam Kilian, MD (Session Coordinator)",
-    "chairs_geography": "NYU Grossman School of Medicine, La Jolla, California | Associate Professor of Medicine, Saint Louis University | Associate Professor of Medicine, Saint Louis University",
+    "chairs_geography": "NYU Grossman School of Medicine, La Jolla, California | Associate Professor of Medicine, University of Texas at Austin Dell Medical School | Associate Professor of Medicine, University of Texas at Austin Dell Medical School",
     "description": "Learning Objectives::\nDescribe key pathogenic mechanisms involved in BehÃ§et disease, including immune dysregulation and vascular inflammationRecognize the typical and atypical clinical features that contribute to diagnostic uncertainty in BehÃ§et diseaseIdentify the diverse neurological manifestations associated with neuro-BehÃ§etâs, including parenchymal and non-parenchymal forms, and interpret key imaging, laboratory, and clinical findings that guide diagnostic differentiation from common mimickers such as multiple sclerosis, infections, and systemic vasculitidesSummarize current evidence-based treatment strategies, including the role of biologics, small molecules, and traditional immunosuppressants, in individualized treatment plans and apply principles of shared decision-making in long-term management, considering disease severity, phenotype, and patient-specific factors",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829689",
     "presentations": []
@@ -11157,14 +11157,14 @@
       },
       {
         "presentation_id": "1829604",
-        "title": "Collaborate to Elevate: Strategies for HighâImpact Research Partnerships Across Institutions and Organizations",
+        "title": "Collaborate to Elevate: Strategies for HighâImpact Research Partnerships Across Institutions and OrganizationsPanelist: Hermine Brunner, MD, MSc, MBA – Cincinnati Children's Hospital Medical Center",
         "time_range": "8:30 AM - 9:00 AM East Coast USA Time",
-        "presenter_names": "Hermine Brunner, MD, MSc, MBA",
-        "authors_and_affiliations": "Authors: Hermine Brunner, MD, MSc, MBA (1)\n\nAffiliations:\n(1) Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio",
-        "presenter_geography": "Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio",
-        "presentation_type": "Scientific Session",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nHermine Brunner, MD, MSc, MBA: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829604"
       },
       {
@@ -11261,14 +11261,14 @@
       },
       {
         "presentation_id": "1829513",
-        "title": "Meaning in MedicineWellness Educator: Yue-Ting Lau, MD – UCSF",
+        "title": "Meaning in Medicine",
         "time_range": "8:50 AM - 9:10 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Yue-Ting Lau, MD",
+        "authors_and_affiliations": "Authors: Yue-Ting Lau, MD (1)\n\nAffiliations:\n(1) UCSF, San Francisco, California",
+        "presenter_geography": "UCSF, San Francisco, California",
+        "presentation_type": "Scientific Session",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nYue-Ting Lau, MD: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829513"
       },
       {
@@ -11429,14 +11429,14 @@
     "presentations": [
       {
         "presentation_id": "1829382",
-        "title": "Navigating Change with Purpose: The Psychology Behind Successful Career Transitions",
+        "title": "Navigating Change with Purpose: The Psychology Behind Successful Career TransitionsInteractive Speaker: Melissa Argraves, MD, MEd – Nationwide Children's Hospital",
         "time_range": "10:00 AM - 10:30 AM East Coast USA Time",
-        "presenter_names": "Melissa Argraves, MD, MEd",
-        "authors_and_affiliations": "Authors: Melissa Argraves, MD, MEd (1)\n\nAffiliations:\n(1) Nationwide Children's Hospital, Columbus, Ohio",
-        "presenter_geography": "Nationwide Children's Hospital, Columbus, Ohio",
-        "presentation_type": "Scientific Session",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nMelissa Argraves, MD, MEd: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829382"
       },
       {
