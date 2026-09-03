@@ -86,14 +86,14 @@
       },
       {
         "presentation_id": "1829212",
-        "title": "Lecture B4: Shoulder Sonography Simplified: PMR, RA, and Tendon Pathology",
+        "title": "Lecture B4: Shoulder Sonography Simplified: PMR, RA, and Tendon PathologyUltrasound Faculty: Kamini Shah, MD, RhMSUS (she/her/hers) – Northwell Health",
         "time_range": "1:00 PM - 1:30 PM East Coast USA Time",
-        "presenter_names": "Kamini Shah, MD, RhMSUS (she/her/hers)",
-        "authors_and_affiliations": "Authors: Kamini Shah, MD, RhMSUS (she/her/hers) (1)\n\nAffiliations:\n(1) Northwell Health, New York, New York",
-        "presenter_geography": "Northwell Health, New York, New York",
-        "presentation_type": "Ultrasound Conferences | Hands-On Training | Ultrasound",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nKamini Shah, MD, RhMSUS: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829212"
       },
       {
@@ -160,7 +160,7 @@
   },
   {
     "session_id": "1829193",
-    "title": "Intermediate-Advanced Rheumatologic Ultrasound Course I",
+    "title": "Intermediate-Advanced Rheumatologic Ultrasound Course I - Enrollment Required",
     "session_type": "Hands-On Training | Ultrasound | Preconference Programming",
     "room": "",
     "date": "06 November 2026",
@@ -170,6 +170,20 @@
     "chairs_geography": "",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829193",
+    "presentations": []
+  },
+  {
+    "session_id": "1829158",
+    "title": "Intermediate-Advanced Rheumatologic Ultrasound Course I",
+    "session_type": "Hands-On Training | Ultrasound | Preconference Programming",
+    "room": "",
+    "date": "06 November 2026",
+    "day": "Friday",
+    "time_range": "7:20 AM - 5:50 PM East Coast USA Time",
+    "chairs_names": "Fawad Aslam, MBBS, RhMSUS, MSc, FACP, FACR (Speaker)",
+    "chairs_geography": "Mayo Clinic, Arizona, Scottsdale, Arizona",
+    "description": "",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829158",
     "presentations": [
       {
         "presentation_id": "1829158",
@@ -384,7 +398,7 @@
   },
   {
     "session_id": "1829119",
-    "title": "Practice Innovation Summit: Maximizing Revenue Through Billing & Coding",
+    "title": "Practice Innovation Summit: Maximizing Revenue Through Billing & Coding - Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "06 November 2026",
@@ -394,6 +408,20 @@
     "chairs_geography": "",
     "description": "Learning Objectives::\nApply revenue optimization strategies to improve reimbursement capture. \r\n\nIdentify common coding errors that reduce reimbursement\r\n\nImplement best practices for billing workflows\"",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829119",
+    "presentations": []
+  },
+  {
+    "session_id": "1829128",
+    "title": "Practice Innovation Summit: Maximizing Revenue Through Billing & Coding",
+    "session_type": "Practice Management | Preconference Programming",
+    "room": "",
+    "date": "06 November 2026",
+    "day": "Friday",
+    "time_range": "8:00 AM - 9:00 AM East Coast USA Time",
+    "chairs_names": "Jean Acevedo, -None- (Speaker)",
+    "chairs_geography": "Acevedo Consulting Inc., Delray Beach, Florida",
+    "description": "Learning Objectives::\nRevenue optimization strategies Coding accuracy and reimbursement capture Avoiding common billing pitfalls",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829128",
     "presentations": [
       {
         "presentation_id": "1829128",
@@ -411,7 +439,7 @@
   },
   {
     "session_id": "1829127",
-    "title": "Practice Innovation Summit: Audit-Proof Documentation",
+    "title": "Practice Innovation Summit: Audit-Proof Documentation - Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "06 November 2026",
@@ -421,6 +449,20 @@
     "chairs_geography": "",
     "description": "Learning Objectives::\nConstruct audit-ready clinical notes that meet medical necessity criteria.\r\n\nReducing administrative burden. Reducing audit and clawback risk/frequency.",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829127",
+    "presentations": []
+  },
+  {
+    "session_id": "1836593",
+    "title": "Practice Innovation Summit: Audit-Proof Documentation",
+    "session_type": "Practice Management | Preconference Programming",
+    "room": "",
+    "date": "06 November 2026",
+    "day": "Friday",
+    "time_range": "9:00 AM - 10:00 AM East Coast USA Time",
+    "chairs_names": "Jean Acevedo, -None- (Speaker)",
+    "chairs_geography": "Acevedo Consulting Inc., Delray Beach, Florida",
+    "description": "",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1836593",
     "presentations": [
       {
         "presentation_id": "1836593",
@@ -475,14 +517,14 @@
       },
       {
         "presentation_id": "1829109",
-        "title": "Live Q&ALocation: VirtualVirtual Speaker: Helene Alexanderson, PhD, PT (she/her/hers) – Karolinska University HospitalVirtual Speaker: Linda Li, PhD, PT – University of British Columbia",
+        "title": "Live Q&A",
         "time_range": "9:55 AM - 10:05 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Helene Alexanderson, PhD, PT (she/her/hers) | Linda Li, PhD, PT",
+        "authors_and_affiliations": "Authors: Helene Alexanderson, PhD, PT (she/her/hers) (1), Linda Li, PhD, PT (2)\n\nAffiliations:\n(1) Karolinska University Hospital, Stockholm\n(2) University of British Columbia, Vancouver, British Columbia",
+        "presenter_geography": "Karolinska University Hospital, Stockholm | University of British Columbia, Vancouver, British Columbia",
+        "presentation_type": "Global Summit | Lifestyle and Behavioral Interventions - Sleep, nutrition, exercise, social support, alternative medicine",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nHelene Alexanderson, PhD, PT: No financial relationships with ineligible companies to disclose\nLinda Li, PhD, PT: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829109"
       }
     ]
@@ -566,7 +608,7 @@
   },
   {
     "session_id": "1829126",
-    "title": "Practice Innovation Summit: Advance Coding Updates & Q & A",
+    "title": "Practice Innovation Summit: Advance Coding Updates & Q & A - Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "06 November 2026",
@@ -576,6 +618,20 @@
     "chairs_geography": "American College of Rheumatology, Covington, Georgia",
     "description": "Learning Objectives::\nCorrectly apply Modifier -25 and -59 based on documentation criteria. \r\n\nExecute compliant JA/JZ waste reporting for biologics. 3. Contrast the benefits and requirements of incident-to versus time-based billing.\r\n\nContrast the benefits and requirements of incident-to versus time-based billing.",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829126",
+    "presentations": []
+  },
+  {
+    "session_id": "1836701",
+    "title": "Practice Innovation Summit: Advance Coding Updates & Q & A",
+    "session_type": "Practice Management | Preconference Programming",
+    "room": "",
+    "date": "06 November 2026",
+    "day": "Friday",
+    "time_range": "10:15 AM - 11:15 AM East Coast USA Time",
+    "chairs_names": "Jean Acevedo, -None- (Speaker) | Georgia Bonney, BSc (Speaker) | Denise Schery, -None- (Speaker)",
+    "chairs_geography": "Acevedo Consulting Inc., Delray Beach, Florida | Virginia Rheumatology Clinic, Chesapeake, Virginia | Rheumatology Associates of Long Island, Smithtown, New York",
+    "description": "",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1836701",
     "presentations": [
       {
         "presentation_id": "1836701",
@@ -607,7 +663,7 @@
   },
   {
     "session_id": "1829124",
-    "title": "Practice Innovation Summit: Insurance and Policy Update",
+    "title": "Practice Innovation Summit: Insurance and Policy Update - Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "06 November 2026",
@@ -617,6 +673,20 @@
     "chairs_geography": "",
     "description": "Learning Objectives::\nCurrent payer trends RPPA and insurance committee updates Audience Q&A",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829124",
+    "presentations": []
+  },
+  {
+    "session_id": "1836762",
+    "title": "Practice Innovation Summit: Insurance and Policy Update",
+    "session_type": "Practice Management | Preconference Programming",
+    "room": "",
+    "date": "06 November 2026",
+    "day": "Friday",
+    "time_range": "11:15 AM - 11:45 AM East Coast USA Time",
+    "chairs_names": "Michael Feely, MD (Speaker)",
+    "chairs_geography": "University of Nebraska Medical Center, Omaha, Nebraska",
+    "description": "Learning Objectives::\nCurrent payer trends RPPA and insurance committee updates Audience Q&A",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1836762",
     "presentations": [
       {
         "presentation_id": "1836762",
@@ -752,7 +822,7 @@
   },
   {
     "session_id": "1829123",
-    "title": "Practice Innovation Summit: RISE Update",
+    "title": "Practice Innovation Summit: RISE Update - Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "06 November 2026",
@@ -762,6 +832,20 @@
     "chairs_geography": "",
     "description": "Learning Objectives::\nBiosimilar selection and contracting Policy and payer pressures Financial risk management Building resilient infusion programs",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829123",
+    "presentations": []
+  },
+  {
+    "session_id": "1836763",
+    "title": "Practice Innovation Summit: RISE Update",
+    "session_type": "Practice Management | Preconference Programming",
+    "room": "",
+    "date": "06 November 2026",
+    "day": "Friday",
+    "time_range": "12:45 PM - 1:15 PM East Coast USA Time",
+    "chairs_names": "Thomas Tack, BS (Speaker)",
+    "chairs_geography": "American College of Rheumatology, West Grove, Pennsylvania",
+    "description": "",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1836763",
     "presentations": [
       {
         "presentation_id": "1836763",
@@ -842,7 +926,7 @@
   },
   {
     "session_id": "1836765",
-    "title": "Practice Innovation Summit: Infusion in Transition: Biosimilars, Business Models & Buy-and-Bill",
+    "title": "Practice Innovation Summit: Infusion in Transition: Biosimilars, Business Models & Buy-and-Bill - Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "06 November 2026",
@@ -852,6 +936,20 @@
     "chairs_geography": "JB Arthritis and Rheumatology Center, Downey, California",
     "description": "Learning Objectives::\nAnalyze the financial risk of different infusion models. Develop a strategy for biosimilar selection and contracting. Implement management strategies to mitigate financial risk in infusion programs.",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1836765",
+    "presentations": []
+  },
+  {
+    "session_id": "1835612",
+    "title": "Practice Innovation Summit: Infusion in Transition: Biosimilars, Business Models & Buy-and-Bill",
+    "session_type": "Practice Management | Preconference Programming",
+    "room": "",
+    "date": "06 November 2026",
+    "day": "Friday",
+    "time_range": "1:15 PM - 2:15 PM East Coast USA Time",
+    "chairs_names": "Nehad Soloman, MD (Speaker) | Georgia Bonney, BSc (Speaker) | Shane Caslavka (Speaker)",
+    "chairs_geography": "Chief Medical Officer, Arizona Arthritis & Rheumatology Associates, P.C. | Virginia Rheumatology Clinic, Chesapeake, Virginia | Disclosure information not submitted.",
+    "description": "Learning Objectives::\nBiosimilar selection and contracting Policy and payer pressures Financial risk management Building resilient infusion programs",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1835612",
     "presentations": [
       {
         "presentation_id": "1835612",
@@ -956,7 +1054,7 @@
   },
   {
     "session_id": "1829122",
-    "title": "Practice Innovation Summit: AI in Rheumatology Practice",
+    "title": "Practice Innovation Summit: AI in Rheumatology Practice - Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "06 November 2026",
@@ -966,6 +1064,20 @@
     "chairs_geography": "Paducah Rheumatology, Paducah, Kentucky",
     "description": "Learning Objectives::\nAssess AI tools for clinical documentation. Assess AI tools for prior authorization and triage. Implement workflow automation to reduce time spent on documentation, prior authorizations, and triage to increase throughput.",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829122",
+    "presentations": []
+  },
+  {
+    "session_id": "1836766",
+    "title": "Practice Innovation Summit: AI in Rheumatology Practice",
+    "session_type": "Practice Management | Preconference Programming",
+    "room": "",
+    "date": "06 November 2026",
+    "day": "Friday",
+    "time_range": "2:15 PM - 3:15 PM East Coast USA Time",
+    "chairs_names": "Jeffrey Curtis, MD, MS, MPH (Speaker) | Alvin Wells, MD, PhD (Speaker)",
+    "chairs_geography": "University of Alabama at Birmingham, Hoover, Alabama | Director, Department of Rheumatology, American Medical Group",
+    "description": "",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1836766",
     "presentations": [
       {
         "presentation_id": "1836766",
@@ -1063,7 +1175,7 @@
   },
   {
     "session_id": "1829121",
-    "title": "Practice Innovation Summit: Ultrasound in Rheumatology: Clinical Impact & Financial Reality",
+    "title": "Practice Innovation Summit: Ultrasound in Rheumatology: Clinical Impact & Financial Reality- Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "06 November 2026",
@@ -1073,6 +1185,20 @@
     "chairs_geography": "Rheumatology Care Center, Hoover, Alabama",
     "description": "Learning Objectives::\nEvaluate the evidence-based clinical impact of ultrasound on rheumatology diagnosis and disease monitoringImplement an efficient clinical workflow for ultrasound that minimizes impact on throughput.Develop a reimbursement strategy that complies with current coding and documentation requirements",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829121",
+    "presentations": []
+  },
+  {
+    "session_id": "1836768",
+    "title": "Practice Innovation Summit: Ultrasound in Rheumatology: Clinical Impact & Financial Reality",
+    "session_type": "Practice Management | Preconference Programming",
+    "room": "",
+    "date": "06 November 2026",
+    "day": "Friday",
+    "time_range": "3:30 PM - 4:30 PM East Coast USA Time",
+    "chairs_names": "Ryan Jessee, MD, RhMSUS (Speaker) | Anthony M. Reginato, MD;PhD;RhMSUS (Speaker)",
+    "chairs_geography": "SoundRheum Diagnostics, Cary, North Carolina | Brown University, Providence, Rhode Island",
+    "description": "Learning Objectives::\nEvidence-based clinical use Workflow implementation Reimbursement strategy",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1836768",
     "presentations": [
       {
         "presentation_id": "1836768",
@@ -1178,14 +1304,14 @@
       },
       {
         "presentation_id": "1815944",
-        "title": "Contract NegotitationLocation: W415DFacilitator: Melinda Malecki, MS, JD – Malecki Brooks Ford Law Group, LLC",
+        "title": "Contract Negotitation",
         "time_range": "4:25 PM - 4:45 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Melinda Malecki, MS, JD",
+        "authors_and_affiliations": "Authors: Melinda Malecki, MS, JD (1)\n\nAffiliations:\n(1) Malecki Brooks Ford Law Group, LLC, Des Plaines, Illinois",
+        "presenter_geography": "Malecki Brooks Ford Law Group, LLC, Des Plaines, Illinois",
+        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nMelinda Malecki, MS, JD: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815944"
       },
       {
@@ -1274,14 +1400,14 @@
       },
       {
         "presentation_id": "1815941",
-        "title": "Making Transition of Care Successful",
+        "title": "Making Transition of Care SuccessfulFacilitator: Melissa Argraves, MD, MEd – Nationwide Children's Hospital",
         "time_range": "4:25 PM - 4:45 PM East Coast USA Time",
-        "presenter_names": "Melissa Argraves, MD, MEd",
-        "authors_and_affiliations": "Authors: Melissa Argraves, MD, MEd (1)\n\nAffiliations:\n(1) Nationwide Children's Hospital, Columbus, Ohio",
-        "presenter_geography": "Nationwide Children's Hospital, Columbus, Ohio",
-        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nMelissa Argraves, MD, MEd: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815941"
       },
       {
@@ -1466,14 +1592,14 @@
       },
       {
         "presentation_id": "1815935",
-        "title": "Role of Diet in Autoimmune DiseaseLocation: W415DFacilitator: Tamiko Katsumoto, MD – Stanford University",
+        "title": "Role of Diet in Autoimmune Disease",
         "time_range": "4:25 PM - 4:45 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Tamiko Katsumoto, MD",
+        "authors_and_affiliations": "Authors: Tamiko Katsumoto, MD (1)\n\nAffiliations:\n(1) Stanford University, Millbrae, California",
+        "presenter_geography": "Stanford University, Millbrae, California",
+        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nTamiko Katsumoto, MD, FACR: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815935"
       },
       {
@@ -1982,14 +2108,14 @@
       },
       {
         "presentation_id": "1815957",
-        "title": "IgG4 Related Disease - Clinical PearlsLocation: W415DFacilitator: Arezou Khosroshahi, MD – Emory University",
+        "title": "IgG4 Related Disease - Clinical Pearls",
         "time_range": "5:05 PM - 5:25 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Arezou Khosroshahi, MD",
+        "authors_and_affiliations": "Authors: Arezou Khosroshahi, MD (1)\n\nAffiliations:\n(1) Emory University, Atlanta, Georgia",
+        "presenter_geography": "Emory University, Atlanta, Georgia",
+        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nArezou Khosroshahi, MD: No relevant disclosure to display",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815957"
       },
       {
@@ -2366,12 +2492,12 @@
       },
       {
         "presentation_id": "1816014",
-        "title": "Integrating US into Community Practice",
+        "title": "Integrating US into Community PracticeFacilitator: Jonathan Dau Dau, MD – Massachusetts General Hospital",
         "time_range": "5:25 PM - 5:45 PM East Coast USA Time",
-        "presenter_names": "Jonathan Dau Dau, MD",
-        "authors_and_affiliations": "Authors: Jonathan Dau Dau, MD (1)\n\nAffiliations:\n(1) Massachusetts General Hospital, Boston, Massachusetts",
-        "presenter_geography": "Massachusetts General Hospital, Boston, Massachusetts",
-        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1816014"
@@ -2426,14 +2552,14 @@
       },
       {
         "presentation_id": "1816020",
-        "title": "Medical Billing in Private PracticeLocation: W415DFacilitator: Howard Blumstein, MD – Rheumatology Associates of Long Island",
+        "title": "Medical Billing in Private Practice",
         "time_range": "5:25 PM - 5:45 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Howard Blumstein, MD",
+        "authors_and_affiliations": "Authors: Howard Blumstein, MD (1)\n\nAffiliations:\n(1) Rheumatology Associates of Long Island, Mount Sinai, New York",
+        "presenter_geography": "Rheumatology Associates of Long Island, Mount Sinai, New York",
+        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nHoward Blumstein, MD: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1816020"
       },
       {
@@ -2510,14 +2636,14 @@
       },
       {
         "presentation_id": "1816023",
-        "title": "MSK US and the Path to RhMSUS CertificationLocation: W415DFacilitator: Christina Schutt, DO, RhMSUS – University of Rochester Medical Center",
+        "title": "MSK US and the Path to RhMSUS Certification",
         "time_range": "5:25 PM - 5:45 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Christina Schutt, DO, RhMSUS",
+        "authors_and_affiliations": "Authors: Christina Schutt, DO, RhMSUS (1)\n\nAffiliations:\n(1) University of Rochester Medical Center, Spencerport, New York",
+        "presenter_geography": "University of Rochester Medical Center, Spencerport, New York",
+        "presentation_type": "Fellows in Training Program | Trainee Education (Medical Student, Resident, and Fellow)",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nChristina Schutt, DO, RhMSUS: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1816023"
       },
       {
@@ -2620,7 +2746,7 @@
   },
   {
     "session_id": "1829120",
-    "title": "Practice Innovation Summit: Workforce Strategy: Stop the Hiring Spiral",
+    "title": "Practice Innovation Summit: Workforce Strategy: Stop the Hiring Spiral- Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "06 November 2026",
@@ -2630,6 +2756,20 @@
     "chairs_geography": "JB Arthritis and Rheumatology Center, Downey, California",
     "description": "Learning Objectives::\nApply retention strategies to reduce staff turnover. Evaluate efficacy and ROI of virtual assistant staffing models.",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829120",
+    "presentations": []
+  },
+  {
+    "session_id": "1836769",
+    "title": "Practice Innovation Summit: Workforce Strategy: Stop the Hiring Spiral",
+    "session_type": "Practice Management | Preconference Programming",
+    "room": "",
+    "date": "06 November 2026",
+    "day": "Friday",
+    "time_range": "4:30 PM - 5:30 PM East Coast USA Time",
+    "chairs_names": "Nilanjana Bose, MD, MBA (Speaker) | Arinola Dada, MD (Speaker)",
+    "chairs_geography": "Lonestar Rheumatology PLLC, Manvel, Texas | Overlake Arthritis, Bellevue, Washington",
+    "description": "Learning Objectives::\nRecruiting challenges Retention strategies Virtual assistants and staffing models",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1836769",
     "presentations": [
       {
         "presentation_id": "1836769",
@@ -2647,7 +2787,7 @@
   },
   {
     "session_id": "1829093",
-    "title": "Practice Innovation Summit: FIT Recruiting Roundtable",
+    "title": "Practice Innovation Summit: FIT Recruiting Roundtable- Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "06 November 2026",
@@ -2675,7 +2815,7 @@
   },
   {
     "session_id": "1829092",
-    "title": "Practice Innovation Summit: Private Practice Networking Reception",
+    "title": "Practice Innovation Summit: Private Practice Networking Reception - Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "06 November 2026",
@@ -2689,7 +2829,7 @@
   },
   {
     "session_id": "1829144",
-    "title": "Basic Musculoskeletal Ultrasound Course II",
+    "title": "Basic Musculoskeletal Ultrasound Course II - Enrollment Required",
     "session_type": "Hands-On Training | Ultrasound | Preconference Programming",
     "room": "",
     "date": "07 November 2026",
@@ -2699,6 +2839,20 @@
     "chairs_geography": "Orlando Arthritis and Rheumatology Clinic, Orlanda, Florida | ARC Arthritis and Rheumatology Clinic, Orlando, Florida",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829144",
+    "presentations": []
+  },
+  {
+    "session_id": "1829145",
+    "title": "Basic Musculoskeletal Ultrasound Course II",
+    "session_type": "Hands-On Training | Ultrasound | Preconference Programming",
+    "room": "",
+    "date": "07 November 2026",
+    "day": "Saturday",
+    "time_range": "7:25 AM - 2:45 PM East Coast USA Time",
+    "chairs_names": "Kamini Shah, MD, RhMSUS (she/her/hers) (Speaker)",
+    "chairs_geography": "Northwell Health, New York, New York",
+    "description": "",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829145",
     "presentations": [
       {
         "presentation_id": "1829145",
@@ -2824,7 +2978,7 @@
   },
   {
     "session_id": "1829216",
-    "title": "Intermediate-Advanced Rheumatologic Ultrasound Course II",
+    "title": "Intermediate-Advanced Rheumatologic Ultrasound Course II - Enrollment Required",
     "session_type": "Hands-On Training | Ultrasound | Preconference Programming",
     "room": "",
     "date": "07 November 2026",
@@ -2834,6 +2988,20 @@
     "chairs_geography": "",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829216",
+    "presentations": []
+  },
+  {
+    "session_id": "1829195",
+    "title": "Intermediate-Advanced Rheumatologic Ultrasound Course II",
+    "session_type": "Hands-On Training | Ultrasound | Preconference Programming",
+    "room": "",
+    "date": "07 November 2026",
+    "day": "Saturday",
+    "time_range": "7:25 AM - 2:45 PM East Coast USA Time",
+    "chairs_names": "Lily Kao (Speaker)",
+    "chairs_geography": "Evergreen Medical Group, San Jose, California",
+    "description": "",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829195",
     "presentations": [
       {
         "presentation_id": "1829195",
@@ -2933,14 +3101,14 @@
       },
       {
         "presentation_id": "1829202",
-        "title": "Lecture B13/A14: Your Questions Answered: Faculty Roundtable",
+        "title": "Lecture B13/A14: Your Questions Answered: Faculty RoundtableUltrasound Faculty: Fawad Aslam, MBBS, RhMSUS, MSc, FACP, FACR – Mayo Clinic, Arizona",
         "time_range": "2:00 PM - 2:40 PM East Coast USA Time",
-        "presenter_names": "Fawad Aslam, MBBS, RhMSUS, MSc, FACP, FACR",
-        "authors_and_affiliations": "Authors: Fawad Aslam, MBBS, RhMSUS, MSc, FACP, FACR (1)\n\nAffiliations:\n(1) Mayo Clinic, Arizona, Scottsdale, Arizona",
-        "presenter_geography": "Mayo Clinic, Arizona, Scottsdale, Arizona",
-        "presentation_type": "Ultrasound Conferences | Hands-On Training | Ultrasound",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nFawad Aslam, MBBS, RhMSUS, MSc, FACP, FACR: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829202"
       },
       {
@@ -3032,14 +3200,14 @@
       },
       {
         "presentation_id": "1829619",
-        "title": "Gut Instinct: What's New in Inflammatory Bowel Disease-Associated Arthritis",
+        "title": "Gut Instinct: What's New in Inflammatory Bowel Disease-Associated ArthritisSpeaker: Kristi Kuhn, MD, PhD – 2022 - 2023 / Adult/ University of Colorado",
         "time_range": "10:10 AM - 10:45 AM East Coast USA Time",
-        "presenter_names": "Kristi Kuhn, MD, PhD",
-        "authors_and_affiliations": "Authors: Kristi Kuhn, MD, PhD (1)\n\nAffiliations:\n(1) 2022 - 2023 / Adult/ University of Colorado, Aurora, Colorado",
-        "presenter_geography": "2022 - 2023 / Adult/ University of Colorado, Aurora, Colorado",
-        "presentation_type": "Scientific Session | Professional Development",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nKristi Kuhn, MD, PhD: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829619"
       },
       {
@@ -3134,7 +3302,7 @@
     "presentations": [
       {
         "presentation_id": "1815282",
-        "title": "Technical Introduction",
+        "title": "Introduction to Decoding Immunity: AI at the Molecular Frontier",
         "time_range": "8:55 AM - 9:00 AM East Coast USA Time",
         "presenter_names": "John Tsang, PhD, MMath",
         "authors_and_affiliations": "Authors: John Tsang, PhD, MMath (1)\n\nAffiliations:\n(1) Disclosure information not submitted.",
@@ -3184,7 +3352,7 @@
   },
   {
     "session_id": "1829094",
-    "title": "Practice Innovation Summit: Office Manager Concurrent Session",
+    "title": "Practice Innovation Summit: Office Manager Concurrent Session- Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "07 November 2026",
@@ -3194,17 +3362,31 @@
     "chairs_geography": "",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829094",
+    "presentations": []
+  },
+  {
+    "session_id": "1837163",
+    "title": "Practice Innovation Summit: Office Manager Concurrent Session",
+    "session_type": "",
+    "room": "",
+    "date": "07 November 2026",
+    "day": "Saturday",
+    "time_range": "10:00 AM - 1:00 PM East Coast USA Time",
+    "chairs_names": "",
+    "chairs_geography": "",
+    "description": "",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1837163",
     "presentations": [
       {
         "presentation_id": "1837163",
         "title": "Office Manager Concurrent Sessions",
         "time_range": "10:00 AM - 1:00 PM East Coast USA Time",
-        "presenter_names": "Georgia Bonney, BSc | Andrea Zlatkus, -None-",
-        "authors_and_affiliations": "Authors: Georgia Bonney, BSc (1), Andrea Zlatkus, -None- (2)\n\nAffiliations:\n(1) Virginia Rheumatology Clinic, Chesapeake, Virginia\n(2) Chester County Rheumatology PC, West Chester, Pennsylvania",
-        "presenter_geography": "Virginia Rheumatology Clinic, Chesapeake, Virginia | Chester County Rheumatology PC, West Chester, Pennsylvania",
+        "presenter_names": "Georgia Bonney, BSc | Andrea Zlatkus, -None-, MA",
+        "authors_and_affiliations": "Authors: Georgia Bonney, BSc (1), Andrea Zlatkus, -None-, MA (2)\n\nAffiliations:\n(1) Virginia Rheumatology Clinic, Chesapeake, Virginia\n(2) National Organization of Rheumatology Management, Rockville, MD",
+        "presenter_geography": "Virginia Rheumatology Clinic, Chesapeake, Virginia | National Organization of Rheumatology Management, Rockville, MD",
         "presentation_type": "Practice Innovation Summit | Practice Management",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nDenise Schery, -None-: No financial relationships with ineligible companies to disclose",
+        "disclosures": "Disclosure(s):\nAndrea Zlatkus, -None-, MA: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1837163"
       }
     ]
@@ -3224,7 +3406,7 @@
     "presentations": [
       {
         "presentation_id": "1815285",
-        "title": "Technical Introduction",
+        "title": "Introduction to Mapping Diseases: AI Across Patients and Populations",
         "time_range": "10:40 AM - 10:45 AM East Coast USA Time",
         "presenter_names": "Jinoos Yazdany, MD, MPH",
         "authors_and_affiliations": "Authors: Jinoos Yazdany, MD, MPH (1)\n\nAffiliations:\n(1) UCSF, San Francisco, California",
@@ -3313,14 +3495,14 @@
       },
       {
         "presentation_id": "1829532",
-        "title": "Hyperparathyroidism",
+        "title": "HyperparathyroidismSpeaker: John A. Carrino, MD – Department of Radiology and Imaging, Hospital for Special Surgery",
         "time_range": "1:30 PM - 2:00 PM East Coast USA Time",
-        "presenter_names": "John A. Carrino, MD",
-        "authors_and_affiliations": "Authors: John A. Carrino, MD (1)\n\nAffiliations:\n(1) Department of Radiology and Imaging, Hospital for Special Surgery, New York, New York",
-        "presenter_geography": "Department of Radiology and Imaging, Hospital for Special Surgery, New York, New York",
-        "presentation_type": "Scientific Session | Imaging in the Rheumatic Diseases",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nJohn A. Carrino, MD: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829532"
       },
       {
@@ -3364,7 +3546,7 @@
     "presentations": [
       {
         "presentation_id": "1815290",
-        "title": "Technical Introduction",
+        "title": "Introduction to Reimagining Care: AI for Scalable Health and Research Systems",
         "time_range": "1:45 PM - 1:50 PM East Coast USA Time",
         "presenter_names": "Katherine P. Liao, MD;MPH",
         "authors_and_affiliations": "Authors: Katherine P. Liao, MD;MPH (1)\n\nAffiliations:\n(1) Brigham and Women's Hospital, Boston, Massachusetts",
@@ -3388,14 +3570,14 @@
       },
       {
         "presentation_id": "1815447",
-        "title": "Leveraging LLMs to Accelerate Research and Care in RheumatologyLocation: W415DPreconference Speaker: Suzanne Tamang, PhD – Stanford University",
+        "title": "Leveraging LLMs to Accelerate Research and Care in Rheumatology",
         "time_range": "2:50 PM - 3:20 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Suzanne Tamang, PhD",
+        "authors_and_affiliations": "Authors: Suzanne Tamang, PhD (1)\n\nAffiliations:\n(1) Stanford University, Stanford, California",
+        "presenter_geography": "Stanford University, Stanford, California",
+        "presentation_type": "Basic & Clinical Research Conference | Tech Med and Telemedicine",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nSuzanne Tamang, PhD: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815447"
       },
       {
@@ -3413,8 +3595,35 @@
     ]
   },
   {
+    "session_id": "1815299",
+    "title": "Session III: Reimagining Care: AI for Scalable Health and Research Systems",
+    "session_type": "Preconference Programming",
+    "room": "",
+    "date": "07 November 2026",
+    "day": "Saturday",
+    "time_range": "1:45 PM - 3:30 PM East Coast USA Time",
+    "chairs_names": "Tianxi Cai, ScD (Speaker)",
+    "chairs_geography": "Harvard University, Boston, MA",
+    "description": "",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1815299",
+    "presentations": [
+      {
+        "presentation_id": "1815299",
+        "title": "Next Generation Clinical Trials with Artificial Intelligence and Real-World Evidence",
+        "time_range": "1:50 PM - 2:10 PM East Coast USA Time",
+        "presenter_names": "Tianxi Cai, ScD",
+        "authors_and_affiliations": "Authors: Tianxi Cai, ScD (1)\n\nAffiliations:\n(1) Harvard University, Boston, MA",
+        "presenter_geography": "Harvard University, Boston, MA",
+        "presentation_type": "Basic & Clinical Research Conference",
+        "abstract_full_text": "",
+        "disclosures": "Disclosure(s):\nXavier Mariette, MD: Bristol-Myers Squibb(BMS): Consultant (Ongoing); Fresenius: Consultant (Ongoing); GlaxoSmithKlein(GSK): Consultant (Ongoing); Novartis: Consultant (Ongoing); Pfizer: Consultant (Ongoing)",
+        "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1815299"
+      }
+    ]
+  },
+  {
     "session_id": "1829117",
-    "title": "Practice Innovation Summit: Negotiating Value: Contracts, Metrics & Shared Savings",
+    "title": "Practice Innovation Summit: Negotiating Value: Contracts, Metrics & Shared Savings- Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "07 November 2026",
@@ -3424,6 +3633,20 @@
     "chairs_geography": "American College of Rheumatology, Newnan, Georgia",
     "description": "Learning Objectives::\nUtilize benchmark data to support negotiation points. Evaluate quality metrics tied to payment. Develop a market positioning strategy for payer discussions.",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829117",
+    "presentations": []
+  },
+  {
+    "session_id": "1837164",
+    "title": "Practice Innovation Summit: Negotiating Value: Contracts, Metrics & Shared Savings",
+    "session_type": "Practice Management | Preconference Programming",
+    "room": "",
+    "date": "07 November 2026",
+    "day": "Saturday",
+    "time_range": "2:00 PM - 3:00 PM East Coast USA Time",
+    "chairs_names": "Colin Edgerton (Speaker) | Kelly Conroy (Speaker)",
+    "chairs_geography": "Articularis Healthcare, Sullivans Island, South Carolina | Disclosure information not submitted.",
+    "description": "",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1837164",
     "presentations": [
       {
         "presentation_id": "1837164",
@@ -3441,7 +3664,7 @@
   },
   {
     "session_id": "1829095",
-    "title": "Practice Innovation Summit: Building & Retaining the Rheumatology Workforce: APPs",
+    "title": "Practice Innovation Summit: Building & Retaining the Rheumatology Workforce: APPs - Enrollment Required",
     "session_type": "Practice Management | Preconference Programming",
     "room": "",
     "date": "07 November 2026",
@@ -3451,6 +3674,20 @@
     "chairs_geography": "Lonestar Rheumatology PLLC, Manvel, Texas",
     "description": "Learning Objectives::\nImplement a structured onboarding model for APPs. Utilize the ACR Workforce Toolkit to improve team integration. Apply retention tools to reduce APP turnover. Assess APP learning to determine growth",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829095",
+    "presentations": []
+  },
+  {
+    "session_id": "1837165",
+    "title": "Practice Innovation Summit: Building & Retaining the Rheumatology Workforce: APPs",
+    "session_type": "Practice Management | Preconference Programming",
+    "room": "",
+    "date": "07 November 2026",
+    "day": "Saturday",
+    "time_range": "3:00 PM - 3:45 PM East Coast USA Time",
+    "chairs_names": "Christine Stamatos, DNP, ANP-C (Speaker) | Brit Richard, PA-C (Speaker) | Leila Khalili, MSN, FNP, APRN (Speaker)",
+    "chairs_geography": "Northwell Health, Division of Rheumatology, cold spring harbor, New York | Advocate/Atrium Health Wake Forest Baptist/Brenner Children's, Winston-Salem, North Carolina | Hospital for Special Surgery, New York, New York",
+    "description": "",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1837165",
     "presentations": [
       {
         "presentation_id": "1837165",
@@ -3600,7 +3837,7 @@
   },
   {
     "session_id": "1829229",
-    "title": "Workshop: Ultrasound of the Hand: Inflammatory Arthritis and Carpal Tunnel Assessment",
+    "title": "Workshop: Ultrasound of the Hand: Inflammatory Arthritis and Carpal Tunnel Assessment - Enrollment Required",
     "session_type": "Ultrasound | Hands-On Workshop",
     "room": "",
     "date": "08 November 2026",
@@ -3659,8 +3896,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "8:30 AM - 9:30 AM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Louise Thoma, PhD, DPT (Speaker)",
+    "chairs_geography": "University of North Carolina, Chapel Hill, North Carolina",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894557",
     "presentations": []
@@ -3673,8 +3910,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "8:30 AM - 9:30 AM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Mark Wener, MD (Speaker)",
+    "chairs_geography": "University of Washington, Seattle, Washington",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894565",
     "presentations": []
@@ -3687,8 +3924,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "8:30 AM - 9:30 AM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Polly Ferguson, MD (Speaker)",
+    "chairs_geography": "University of Iowa Carver College of Medicine, Iowa City, Iowa",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894564",
     "presentations": []
@@ -3696,13 +3933,13 @@
   {
     "session_id": "1894577",
     "title": "Defining Your Mentoring Needs",
-    "session_type": "Pediatrics\nBasic Science\nARP\nWorkforce & Education\nBusiness of Rheumatology",
+    "session_type": "Pediatrics/Basic Science/ARP/Workforce & Education/Business of Rheumatology",
     "room": "",
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "8:30 AM - 9:30 AM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Connie Herndon, -None- (Speaker)",
+    "chairs_geography": "ACR, Leonardtown, MD",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894577",
     "presentations": []
@@ -3715,8 +3952,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "8:30 AM - 9:30 AM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Janell Martin (Speaker)",
+    "chairs_geography": "American College of Rheumatology, Atlanta, Georgia",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894576",
     "presentations": []
@@ -3729,22 +3966,22 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "8:30 AM - 9:30 AM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Gregory Gardner, MD (Speaker)",
+    "chairs_geography": "University of Washington, Anacortes, Washington",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894575",
     "presentations": []
   },
   {
     "session_id": "1894566",
-    "title": "NL Blank",
-    "session_type": "",
+    "title": "Can You Beat the Board? Bring Your Toughest Rheumatic irAE Cases",
+    "session_type": "Workforce & Education/Clinical Science",
     "room": "",
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "8:30 AM - 9:30 AM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Pankti Reid, MD;MPH (Speaker)",
+    "chairs_geography": "University of Chicago Medical Center, Elmhurst, Illinois",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894566",
     "presentations": []
@@ -4291,7 +4528,7 @@
   },
   {
     "session_id": "1829224",
-    "title": "Plenary I",
+    "title": "Plenary I (0867-0871)",
     "session_type": "",
     "room": "",
     "date": "08 November 2026",
@@ -4623,8 +4860,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "10:30 AM - 11:30 AM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Heather Walters, MD (Speaker)",
+    "chairs_geography": "Northwell Health, New Hyde Park, New York",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894563",
     "presentations": []
@@ -4637,8 +4874,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "10:30 AM - 11:30 AM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Antanya Chung-Gardiner, MBA (Speaker)",
+    "chairs_geography": "American College of Rheumatology, Covington, Georgia",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894574",
     "presentations": []
@@ -4651,8 +4888,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "10:30 AM - 11:30 AM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Brian Robinson (Speaker)",
+    "chairs_geography": "Disclosure information not submitted.",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894569",
     "presentations": []
@@ -4665,8 +4902,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "10:30 AM - 11:30 AM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Janell Martin (Speaker)",
+    "chairs_geography": "American College of Rheumatology, Atlanta, Georgia",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894567",
     "presentations": []
@@ -5103,8 +5340,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "1:00 PM - 2:00 PM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Eli Miloslavsky, MD (Speaker)",
+    "chairs_geography": "Massachusetts General Hospital, Newton, Massachusetts",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894562",
     "presentations": []
@@ -5117,8 +5354,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "1:00 PM - 2:00 PM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Antanya Chung-Gardiner, MBA (Speaker)",
+    "chairs_geography": "American College of Rheumatology, Covington, Georgia",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894561",
     "presentations": []
@@ -5126,13 +5363,13 @@
   {
     "session_id": "1894573",
     "title": "Meet a Leader! Get to know volunteer leadership across the College.",
-    "session_type": "ARP\nACR Internal",
+    "session_type": "ARP/ACR Internal",
     "room": "",
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "1:00 PM - 2:00 PM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Emily Penninga Brown (Speaker)",
+    "chairs_geography": "Disclosure information not submitted.",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894573",
     "presentations": []
@@ -5145,8 +5382,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "1:00 PM - 2:00 PM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Susan Shenoi, MS;MBBS;RhMSUS (Speaker)",
+    "chairs_geography": "Seattle Children's Hospital and Research Center, Mercer Island, Washington",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894572",
     "presentations": []
@@ -5159,11 +5396,38 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "1:00 PM - 2:00 PM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Alexandria Urbanek (Speaker)",
+    "chairs_geography": "Disclosure information not submitted.",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894571",
     "presentations": []
+  },
+  {
+    "session_id": "1895190",
+    "title": "Pediatric Early Investigators",
+    "session_type": "Pediatrics",
+    "room": "",
+    "date": "08 November 2026",
+    "day": "Sunday",
+    "time_range": "1:00 PM - 2:00 PM East Coast USA Time",
+    "chairs_names": "Stacey Tarvin, MD;MS;FACR (Speaker)",
+    "chairs_geography": "Riley Hospital for Children at Indiana University, Indianapolis, Indiana",
+    "description": "",
+    "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1895190",
+    "presentations": [
+      {
+        "presentation_id": "1895190",
+        "title": "Pediatric Early Investigators",
+        "time_range": "1:00 PM - 2:00 PM East Coast USA Time",
+        "presenter_names": "Stacey Tarvin, MD;MS;FACR",
+        "authors_and_affiliations": "Authors: Stacey Tarvin, MD;MS;FACR (1)\n\nAffiliations:\n(1) Riley Hospital for Children at Indiana University, Indianapolis, Indiana",
+        "presenter_geography": "Riley Hospital for Children at Indiana University, Indianapolis, Indiana",
+        "presentation_type": "Networking Lounge",
+        "abstract_full_text": "",
+        "disclosures": "",
+        "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1895190"
+      }
+    ]
   },
   {
     "session_id": "1829688",
@@ -5272,7 +5536,7 @@
         "presenter_names": "",
         "authors_and_affiliations": "",
         "presenter_geography": "",
-        "presentation_type": "Scientific Session | Immunotherapy including CAR-T Therapy",
+        "presentation_type": "",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829463"
@@ -5332,7 +5596,7 @@
   },
   {
     "session_id": "1829228",
-    "title": "Workshop: Vasculitis Ultrasound for Giant Cell Arteritis - Registration Required",
+    "title": "Workshop: Vasculitis Ultrasound for Giant Cell Arteritis - Enrollment Required",
     "session_type": "Ultrasound | Hands-On Workshop",
     "room": "",
     "date": "08 November 2026",
@@ -5654,22 +5918,22 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "3:00 PM - 4:00 PM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Sarah Lieber, MD, MS (Speaker)",
+    "chairs_geography": "Hospital for Special Surgery, New York, New York",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894560",
     "presentations": []
   },
   {
     "session_id": "1894559",
-    "title": "PhD research in Clinical Departments",
+    "title": "PhD Research in Clinical Departments",
     "session_type": "Basic Science",
     "room": "",
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "3:00 PM - 4:00 PM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Carla Cuda, PhD (Speaker)",
+    "chairs_geography": "Northwestern University, Chicago, IL",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894559",
     "presentations": []
@@ -5682,8 +5946,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "3:00 PM - 4:00 PM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Michele Andwele, n/a (Speaker)",
+    "chairs_geography": "ACR, Chicago, IL",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894558",
     "presentations": []
@@ -5696,8 +5960,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "3:00 PM - 4:00 PM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Michele Andwele, n/a (Speaker)",
+    "chairs_geography": "ACR, Chicago, IL",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894570",
     "presentations": []
@@ -5710,8 +5974,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "3:00 PM - 4:00 PM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Michele Andwele, n/a (Speaker)",
+    "chairs_geography": "ACR, Chicago, IL",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894568",
     "presentations": []
@@ -6096,8 +6360,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "4:00 PM - 5:00 PM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Latonya Trower, BS (Speaker)",
+    "chairs_geography": "ACR, Brandywine, Maryland",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894579",
     "presentations": []
@@ -6110,8 +6374,8 @@
     "date": "08 November 2026",
     "day": "Sunday",
     "time_range": "4:00 PM - 5:00 PM East Coast USA Time",
-    "chairs_names": "",
-    "chairs_geography": "",
+    "chairs_names": "Sarah Bayefsky, MD (Speaker)",
+    "chairs_geography": "Hackensack University Medical Center, New York, New York",
     "description": "",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1894578",
     "presentations": []
@@ -6750,14 +7014,14 @@
     "presentations": [
       {
         "presentation_id": "1829572",
-        "title": "Immunobiology of TheurapeuticsLocation: W308Speaker: Vartika Kesarwani, MD (she/her/hers) – Robert Larner College of Medicine at the University of Vermont",
+        "title": "Immunobiology of Theurapeutics",
         "time_range": "10:00 AM - 11:00 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Vartika Kesarwani, MD (she/her/hers)",
+        "authors_and_affiliations": "Authors: Vartika Kesarwani, MD (she/her/hers) (1)\n\nAffiliations:\n(1) Rheumatology Fellow, Robert Larner College of Medicine at the University of Vermont",
+        "presenter_geography": "Rheumatology Fellow, Robert Larner College of Medicine at the University of Vermont",
+        "presentation_type": "Scientific Session | Immunobiology",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nVartika Kesarwani, MBBS: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829572"
       }
     ]
@@ -6957,14 +7221,14 @@
       },
       {
         "presentation_id": "1829554",
-        "title": "Strategies to Help Your Patient Overcome Barriers to Optimal Care in LupusLocation: W311EFSpeaker: Melissa Flores, MPH, MSW – Hospital for Special Surgery",
+        "title": "Strategies to Help Your Patient Overcome Barriers to Optimal Care in Lupus",
         "time_range": "11:00 AM - 11:30 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Melissa Flores, MPH, MSW",
+        "authors_and_affiliations": "Authors: Melissa Flores, MPH, MSW (1)\n\nAffiliations:\n(1) Hospital for Special Surgery, New York, New York",
+        "presenter_geography": "Hospital for Special Surgery, New York, New York",
+        "presentation_type": "Scientific Session | Systemic Lupus Erythematosus (SLE)",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nGiselle Morales, BA, MSW, LCSW: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829554"
       }
     ]
@@ -7089,8 +7353,8 @@
         "title": "Clinical and Educational Funding: Physician Fee Schedule, Prospective Payment, Pharmacy, and Educational Reimbursement",
         "time_range": "10:00 AM - 10:30 AM East Coast USA Time",
         "presenter_names": "Shiv Sehra, MD",
-        "authors_and_affiliations": "Authors: Shiv Sehra, MD (1)\n\nAffiliations:\n(1) South Shore Health, Norwell, Massachusetts",
-        "presenter_geography": "South Shore Health, Norwell, Massachusetts",
+        "authors_and_affiliations": "Authors: Shiv Sehra, MD (1)\n\nAffiliations:\n(1) South Shore Health, Norwell, MA",
+        "presenter_geography": "South Shore Health, Norwell, MA",
         "presentation_type": "Scientific Session | Medical Education (Medical Student, Resident, APP, and Fellow, etc.)",
         "abstract_full_text": "",
         "disclosures": "Disclosure(s):\nShiv Sehra, MD: No financial relationships with ineligible companies to disclose",
@@ -7137,14 +7401,14 @@
     "presentations": [
       {
         "presentation_id": "1829296",
-        "title": "Early Systemic Lupus Erythematosus: Recognizing the First Signals and Predicting Disease TrajectoryLocation: W415ASpeaker: Michelle Petri, MD – Johns Hopkins University School of Medicine",
+        "title": "Early Systemic Lupus Erythematosus: Recognizing the First Signals and Predicting Disease Trajectory",
         "time_range": "10:00 AM - 10:30 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Michelle Petri, MD",
+        "authors_and_affiliations": "Authors: Michelle Petri, MD (1)\n\nAffiliations:\n(1) Johns Hopkins University School of Medicine, Timonium, Maryland",
+        "presenter_geography": "Johns Hopkins University School of Medicine, Timonium, Maryland",
+        "presentation_type": "Scientific Session | Systemic Lupus Erythematosus (SLE)",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nMichelle Petri, MD, MPH, MACR: No relevant disclosure to display",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829296"
       },
       {
@@ -7380,14 +7644,14 @@
       },
       {
         "presentation_id": "1829631",
-        "title": "Evolution in Anti-Inflammatory Drugs for Management of Gout",
+        "title": "Evolution in Anti-Inflammatory Drugs for Management of GoutSpeaker: Michael Pillinger, MD – New York University Grossman School of Medicine",
         "time_range": "11:00 AM - 11:30 AM East Coast USA Time",
-        "presenter_names": "Michael Pillinger, MD",
-        "authors_and_affiliations": "Authors: Michael Pillinger, MD (1)\n\nAffiliations:\n(1) New York University Grossman School of Medicine, New York,, New York",
-        "presenter_geography": "New York University Grossman School of Medicine, New York,, New York",
-        "presentation_type": "Scientific Session | Crystal Arthropathies",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nMichael Pillinger, MD: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829631"
       }
     ]
@@ -7778,14 +8042,14 @@
     "presentations": [
       {
         "presentation_id": "1829461",
-        "title": "Which Diseases Are Most Amenable to Cellular Therapies and Why?",
+        "title": "Which Diseases Are Most Amenable to Cellular Therapies and Why?Speaker: Nirali Shah (she/her/hers) – National Institutes of Health",
         "time_range": "1:00 PM - 1:20 PM East Coast USA Time",
-        "presenter_names": "Nirali Shah (she/her/hers)",
-        "authors_and_affiliations": "Authors: Nirali Shah (she/her/hers) (1)\n\nAffiliations:\n(1) National Institutes of Health, Bethesda, Maryland",
-        "presenter_geography": "National Institutes of Health, Bethesda, Maryland",
-        "presentation_type": "Scientific Session | Immunotherapy including CAR-T Therapy",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nNirali Shah: No relevant disclosure to display",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829461"
       },
       {
@@ -8871,7 +9135,7 @@
     "time_range": "8:00 AM - 9:00 AM East Coast USA Time",
     "chairs_names": "Kristen Hayward, MD;MS (she/her/hers) (Speaker) | Heather Walters, MD (Speaker)",
     "chairs_geography": "Seattle Children's Hospital/University of Washington School of Medicine, Seattle, Washington | Northwell Health, New Hyde Park, New York",
-    "description": "Learning Objectives::\nDescribe the ABP's requirements for a new fellowship training track proposal submission and the opportunities associated with time-variable, competency based trainingInterpret key findings from the ACR survey on flexibility in fellowship programs, including identified barriers and opportunitiesApply insights from survey data and initiatives to advocate for and implement adaptable training pathways that support workforce sustainability and physician well-being",
+    "description": "Learning Objectives::\nExplain pediatric rheumatology community preference data from a recent ACR survey , highlighting current trends, barriers, and opportunities for implementation of flexibility in fellowship training length.Describe ABP specifications for training and evaluation, including competency-based progression, and identify both challenges inherent with variable-length training pathways and innovative scheduling models for addressing challenges.Highlight perspective from adult rheumatology training programs that offer both two-year clinician educator and three-year research-focused fellowship pathways, including discussion of lessons learned in formalizing the two training pathways.",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1829472",
     "presentations": [
       {
@@ -8978,14 +9242,14 @@
     "presentations": [
       {
         "presentation_id": "1829245",
-        "title": "Stromal Targets for CAR-T Cells",
+        "title": "Stromal Targets for CAR-T CellsSpeaker: Adam Croft, PhD, MD – University of Birmingham",
         "time_range": "8:00 AM - 8:30 AM East Coast USA Time",
-        "presenter_names": "Adam Croft, PhD, MD",
-        "authors_and_affiliations": "Authors: Adam Croft, PhD, MD (1)\n\nAffiliations:\n(1) University of Birmingham, Birmingham",
-        "presenter_geography": "University of Birmingham, Birmingham",
-        "presentation_type": "Scientific Session | Immunotherapy including CAR-T Therapy",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nAdam Croft, PhD,MRCP: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829245"
       },
       {
@@ -9002,12 +9266,12 @@
       },
       {
         "presentation_id": "1893469",
-        "title": "TBDLocation: W204",
+        "title": "TBD",
         "time_range": "9:00 AM - 9:30 AM East Coast USA Time",
         "presenter_names": "",
         "authors_and_affiliations": "",
         "presenter_geography": "",
-        "presentation_type": "",
+        "presentation_type": "Scientific Session | Immunotherapy including CAR-T Therapy",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1893469"
@@ -9145,12 +9409,12 @@
         "presentation_id": "1829563",
         "title": "Pharmacology Update: What Is New for 2026",
         "time_range": "8:30 AM - 9:30 AM East Coast USA Time",
-        "presenter_names": "Bharati Bhardwaja, PharmD",
-        "authors_and_affiliations": "Authors: Bharati Bhardwaja, PharmD (1)\n\nAffiliations:\n(1) Kaiser Permanente Colorado, Windsor, Colorado",
-        "presenter_geography": "Kaiser Permanente Colorado, Windsor, Colorado",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
         "presentation_type": "Scientific Session | Professional Development",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nBharati Bhardwaja, PharmD: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829563"
       }
     ]
@@ -9481,14 +9745,14 @@
       },
       {
         "presentation_id": "1829586",
-        "title": "Preparing for CAR Therapies in Pediatric Rheumatic Disease: Lessons from Systemic SclerosisLocation: W110BPanelist: Ivan Foeldvari, MD – Hamburger Zentrum fÃ¼r Kinder- und Jugendrheumatologie",
+        "title": "Preparing for CAR Therapies in Pediatric Rheumatic Disease: Lessons from Systemic Sclerosis",
         "time_range": "10:30 AM - 11:00 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Ivan Foeldvari, MD",
+        "authors_and_affiliations": "Authors: Ivan Foeldvari, MD (1)\n\nAffiliations:\n(1) Hamburger Zentrum fÃ¼r Kinder- und Jugendrheumatologie, Hamburg",
+        "presenter_geography": "Hamburger Zentrum fÃ¼r Kinder- und Jugendrheumatologie, Hamburg",
+        "presentation_type": "Scientific Session | Immunotherapy including CAR-T Therapy",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nIvan Foeldvari, MD: No relevant disclosure to display",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829586"
       }
     ]
@@ -9508,14 +9772,14 @@
     "presentations": [
       {
         "presentation_id": "1829052",
-        "title": "Advancing Lupus Knowledge Through National Virtual Education",
+        "title": "Advancing Lupus Knowledge Through National Virtual EducationSpeaker: Ashley Holden, BS, MEd (she/her/hers) – Lupus Foundation of America",
         "time_range": "10:00 AM - 10:30 AM East Coast USA Time",
-        "presenter_names": "Ashley Holden, BS, MEd (she/her/hers)",
-        "authors_and_affiliations": "Authors: Ashley Holden, BS, MEd (she/her/hers) (1)\n\nAffiliations:\n(1) Health Education Manager, Access and Advocacy, Lupus Foundation of America",
-        "presenter_geography": "Health Education Manager, Access and Advocacy, Lupus Foundation of America",
-        "presentation_type": "Scientific Session | Patient Engagement/Self-Management",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nAshley Holden, BS, MEd: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829052"
       },
       {
@@ -9739,14 +10003,14 @@
     "presentations": [
       {
         "presentation_id": "1829287",
-        "title": "When Raynaud's Becomes Severe: Managing Digital Ischemia and Gangrene in Rheumatic DiseasesLocation: W415DSpeaker: Yannick Allanore, MD, PhD – UniversitÃ© Paris CitÃ©",
+        "title": "When Raynaud's Becomes Severe: Managing Digital Ischemia and Gangrene in Rheumatic Diseases",
         "time_range": "10:00 AM - 10:30 AM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Yannick Allanore, MD, PhD",
+        "authors_and_affiliations": "Authors: Yannick Allanore, MD, PhD (1)\n\nAffiliations:\n(1) UniversitÃ© Paris CitÃ©, Paris",
+        "presenter_geography": "UniversitÃ© Paris CitÃ©, Paris",
+        "presentation_type": "Scientific Session | Imaging in the Rheumatic Diseases",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nYannick Allanore, MD, PhD: No relevant disclosure to display",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829287"
       },
       {
@@ -10215,14 +10479,14 @@
       },
       {
         "presentation_id": "1829240",
-        "title": "Remembering Inflammation: How Blood Stem Cells Shape Immunity in Aging and DiseaseLocation: W110ASpeaker: Stephanie Xie, PhD – UHN Princess Margaret Cancer Centre",
+        "title": "Remembering Inflammation: How Blood Stem Cells Shape Immunity in Aging and Disease",
         "time_range": "1:00 PM - 2:00 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Stephanie Xie, PhD",
+        "authors_and_affiliations": "Authors: Stephanie Xie, PhD (1)\n\nAffiliations:\n(1) UHN Princess Margaret Cancer Centre, Toronto, Ontario",
+        "presenter_geography": "UHN Princess Margaret Cancer Centre, Toronto, Ontario",
+        "presentation_type": "Scientific Session | Immunobiology",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nStephanie Xie, PhD: No financial relationships with ineligible companies to disclose",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829240"
       }
     ]
@@ -10242,14 +10506,14 @@
     "presentations": [
       {
         "presentation_id": "1829322",
-        "title": "Guidelines for the Treatment of NP-SLELocation: W415ASpeaker: Maria Dall'Era, MD – UCSF",
+        "title": "Guidelines for the Treatment of NP-SLE",
         "time_range": "1:00 PM - 1:20 PM East Coast USA Time",
-        "presenter_names": "",
-        "authors_and_affiliations": "",
-        "presenter_geography": "",
-        "presentation_type": "",
+        "presenter_names": "Maria Dall'Era, MD",
+        "authors_and_affiliations": "Authors: Maria Dall'Era, MD (1)\n\nAffiliations:\n(1) UCSF, Corte Madera, California",
+        "presenter_geography": "UCSF, Corte Madera, California",
+        "presentation_type": "Scientific Session | Systemic Lupus Erythematosus (SLE)",
         "abstract_full_text": "",
-        "disclosures": "",
+        "disclosures": "Disclosure(s):\nMaria Dall'Era, MD: No relevant disclosure to display",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829322"
       },
       {
@@ -10959,7 +11223,7 @@
     "day": "Tuesday",
     "time_range": "3:30 PM - 4:30 PM East Coast USA Time",
     "chairs_names": "Gary Koretzky, MD, MACR (Speaker)",
-    "chairs_geography": "Cornell University, Ithaca, New York",
+    "chairs_geography": "Cornell University, Ithaca, NY",
     "description": "Learning Objectives::\nExplain about a recent scientific discovery in lupus with breakthrough potentialEvaluate the genesis of the scientific discovery and its potential implication for translation and ultimately for impacting clinical care",
     "session_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/SessionInfo.asp?PresentationID=1875219",
     "presentations": [
@@ -10968,8 +11232,8 @@
         "title": "Introduction & Award Presentation",
         "time_range": "3:30 PM - 3:40 PM East Coast USA Time",
         "presenter_names": "Gary Koretzky, MD, MACR",
-        "authors_and_affiliations": "Authors: Gary Koretzky, MD, MACR (1)\n\nAffiliations:\n(1) Cornell University, Ithaca, New York",
-        "presenter_geography": "Cornell University, Ithaca, New York",
+        "authors_and_affiliations": "Authors: Gary Koretzky, MD, MACR (1)\n\nAffiliations:\n(1) Cornell University, Ithaca, NY",
+        "presenter_geography": "Cornell University, Ithaca, NY",
         "presentation_type": "Scientific Session | Systemic Lupus Erythematosus (SLE)",
         "abstract_full_text": "",
         "disclosures": "",
@@ -11269,14 +11533,14 @@
     "presentations": [
       {
         "presentation_id": "1829049",
-        "title": "Decoding the Exposome: Integrated Methods and Interdisciplinary Teams",
+        "title": "Decoding the Exposome: Integrated Methods and Interdisciplinary TeamsPanelist: Paula S. Ramos, PhD – Emory University School of Medicine",
         "time_range": "8:00 AM - 8:30 AM East Coast USA Time",
-        "presenter_names": "Paula S. Ramos, PhD",
-        "authors_and_affiliations": "Authors: Paula S. Ramos, PhD (1)\n\nAffiliations:\n(1) Emory University School of Medicine, Atlanta, Georgia",
-        "presenter_geography": "Emory University School of Medicine, Atlanta, Georgia",
-        "presentation_type": "Scientific Session | Immunobiology",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nPaula Ramos, PhD: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829049"
       },
       {
@@ -11313,7 +11577,7 @@
         "presenter_names": "",
         "authors_and_affiliations": "",
         "presenter_geography": "",
-        "presentation_type": "Scientific Session | Patient Engagement/Self Management",
+        "presentation_type": "",
         "abstract_full_text": "",
         "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829640"
@@ -11450,14 +11714,14 @@
     "presentations": [
       {
         "presentation_id": "1829605",
-        "title": "From Training to Funding: Leveraging Research Opportunities to Build Skills and Strengthen Your Scholarly Trajectory",
+        "title": "From Training to Funding: Leveraging Research Opportunities to Build Skills and Strengthen Your Scholarly TrajectoryPanelist: Mara Becker, MD, MSCE (she/her/hers) – Duke University",
         "time_range": "8:00 AM - 8:30 AM East Coast USA Time",
-        "presenter_names": "Mara Becker, MD, MSCE (she/her/hers)",
-        "authors_and_affiliations": "Authors: Mara Becker, MD, MSCE (she/her/hers) (1)\n\nAffiliations:\n(1) Duke University, Durham, North Carolina",
-        "presenter_geography": "Duke University, Durham, North Carolina",
-        "presentation_type": "Scientific Session | Scientific/Research Training (Graduate Students and Postdocs)",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nMara Becker, MD,MSCE: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829605"
       },
       {
@@ -11578,14 +11842,14 @@
       },
       {
         "presentation_id": "1829512",
-        "title": "Integrating Personal Development Reflection into Individualized Learning Plans",
+        "title": "Integrating Personal Development Reflection into Individualized Learning PlansWellness Educator: Melissa Argraves, MD, MEd – Nationwide Children's Hospital",
         "time_range": "9:10 AM - 9:30 AM East Coast USA Time",
-        "presenter_names": "Melissa Argraves, MD, MEd",
-        "authors_and_affiliations": "Authors: Melissa Argraves, MD, MEd (1)\n\nAffiliations:\n(1) Nationwide Children's Hospital, Columbus, Ohio",
-        "presenter_geography": "Nationwide Children's Hospital, Columbus, Ohio",
-        "presentation_type": "Scientific Session | Medical Education (Medical Student, Resident, APP, and Fellow, etc.)",
+        "presenter_names": "",
+        "authors_and_affiliations": "",
+        "presenter_geography": "",
+        "presentation_type": "",
         "abstract_full_text": "",
-        "disclosures": "Disclosure(s):\nMelissa Argraves, MD, MEd: No financial relationships with ineligible companies to disclose",
+        "disclosures": "",
         "presentation_url": "https://acrconvergence2026.eventscribe.net/ajaxcalls/PresentationInfo.asp?PresentationID=1829512"
       }
     ]
